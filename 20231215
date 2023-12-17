@@ -1,6 +1,6 @@
 🇨🇳河南地方,#genre#
 #河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5892966c7f508032e4dd6f88a34e23d3&wsTime=1702633523
-/*新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=ea4f00d9abb69c67430b92443a8f3900&wsTime=1702633523
+/* 新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=ea4f00d9abb69c67430b92443a8f3900&wsTime=1702633523
 都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=0b713be97a5f4c01e121e0e080b0ae98&wsTime=1702633523
 民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=178f2177353c4f784e3e3bf31844cddb&wsTime=1702633523
 法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=a010f5b2164a62f96ae7a0c94f356152&wsTime=1702633523
@@ -26,17 +26,17 @@
 #河南卫视,http://58.220.219.14:9901/tsfile/live/0139_1.m3u8?key=txiptv
 #河南卫视,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel78/index.m3u8
 
-梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+/* 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
-梨园频道,http://123.6.9.146/live/jz-henanliyuan/live.m3u8
+梨园频道,http://123.6.9.146/live/jz-henanliyuan/live.m3u8 */
 
 
-公共频道2,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
+#公共频道2,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
 公共频道4,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 公共频道5,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 公共频道6,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 公共频道7,http://live2.scmstv.cn/ggpd/sd/live.m3u8
-公共频道9,http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
+#公共频道9,http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
 公共频道10,http://stream.zztvzd.com/3/sd/live.m3u8
 公共频道14,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 公共频道16,http://stream.smntv.cn/smtv2/sd/live.m3u8
