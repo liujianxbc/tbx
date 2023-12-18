@@ -20,7 +20,7 @@
 
 公共频道18,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
 
-新闻频道1,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+萧山综合1,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 新闻频道2,http://222.179.155.21:1935/ch1.m3u8
 新闻频道3,https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
 新闻频道4,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
