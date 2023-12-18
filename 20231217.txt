@@ -31,7 +31,7 @@
 新闻频道11,http://live.wjyanghu.com/live/CH1.m3u8
 新闻频道14,https://live.wjyanghu.com/live/CH2.m3u8
 新闻频道15,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-新闻频道15,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+
 新闻频道20,https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
 
 🇨🇳卫视频道,#genre#
