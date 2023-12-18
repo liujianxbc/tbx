@@ -16,8 +16,8 @@
 公共频道14,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 公共频道16,http://stream.smntv.cn/smtv2/sd/live.m3u8
 公共频道18,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-公共频道18,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
-公共频道18,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
+
+
 公共频道18,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
 
 新闻频道1,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
