@@ -12,21 +12,20 @@
 
 公共频道10,http://stream.zztvzd.com/3/sd/live.m3u8
 邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+邯郸公共,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
 公共频道16,http://stream.smntv.cn/smtv2/sd/live.m3u8
-公共频道18,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-
-公共频道18,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8
 
 萧山综合1,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 新闻频道2,http://222.179.155.21:1935/ch1.m3u8
-新闻频道3,https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
-新闻频道4,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+涞水电视台,https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
+鹿邑频道4,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
 新闻频道5,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8
-新闻频道8,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+临平频道8,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 
 新闻频道11,http://live.wjyanghu.com/live/CH1.m3u8
-新闻频道14,https://live.wjyanghu.com/live/CH2.m3u8
-新闻频道15,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+生活频道14,https://live.wjyanghu.com/live/CH2.m3u8
+彩条频道15,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
 
 纳溪频道20,https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8
 
