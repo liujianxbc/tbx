@@ -501,31 +501,15 @@ TVBS,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 
 金鹰卡通,http://gxdl-lhs.8866.org:85/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
-星空卫视,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=683118&extension=ts
-星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 
-民视,http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
-民视,http://50.7.238.114:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
-民视,http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
+
+
 民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8504/.m3u8
-民视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156392
+
 
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,http://210.210.155.37/dr9445/h/h20/index.m3u8
-翡翠台,https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
+
+rctv,https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
 翡翠台,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
