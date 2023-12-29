@@ -304,6 +304,7 @@ CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 
 CCTV4k,http://cfss.cc/api/ysp/cctv4k.m3u8
+CCTV-4K,http://ainm.cc/a/play/php/CCTV-4k.php?id=4khd
 
 CCTV5,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000016431/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3
@@ -424,6 +425,8 @@ CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 
 CCTV-17,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8
 CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
+CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+CCTV-17,http://111.20.35.103:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00
 
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -625,11 +628,11 @@ CCTV-17,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/
 
 CCTV-17,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8
 CCTV-17,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+
 CCTV-17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
-CCTV-17,http://111.20.35.103:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00
+
 CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-CCTV-4K,http://ainm.cc/a/play/php/CCTV-4k.php?id=4khd
+
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230960/1.m3u8
