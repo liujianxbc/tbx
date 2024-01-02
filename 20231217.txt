@@ -4,7 +4,7 @@
 河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027731/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
 河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
 河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000017925/1.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=3
-河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+
 
 无线淮安,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 运城2,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
