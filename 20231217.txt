@@ -72,16 +72,15 @@
 
 
 
-厦门卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
-厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+厦门卫视720,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
+厦门卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 
 
 吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
-吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040013/1.m3u8?channel-id=bestzb&Contentid=5000000006000040013&livemode=1&stbId=3
+吉林卫视720,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040013/1.m3u8?channel-id=bestzb&Contentid=5000000006000040013&livemode=1&stbId=3
 吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027730/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3
 吉林卫视,http://111.225.92.130:8800/hls/51/index.m3u8
-吉林卫视,http://222.134.57.82:8154/tsfile/live/0116_1.m3u8
-吉林卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8
+
 吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
 吉林卫视,http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
