@@ -35,10 +35,10 @@
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 
-东南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
+
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://111.225.92.130:8800/hls/48/index.m3u8
-
+东南卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 
 
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
@@ -54,9 +54,9 @@
 云南卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 
 
-内蒙古卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=3
-内蒙古卫视,http://111.225.92.130:8800/hls/54/index.m3u8
-内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
+内蒙古卫视720,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=3
+内蒙古卫视720,http://111.225.92.130:8800/hls/54/index.m3u8
+内蒙古卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 
 北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000021288/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3
 北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
