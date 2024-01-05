@@ -35,7 +35,10 @@
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 
-
+东南卫视,http://39.134.65.164/PLTV/88888888/224/3221225672/index.m3u8
+东南卫视,http://39.134.65.179/PLTV/88888888/224/3221225672/index.m3u8
+东南卫视,http://39.134.65.173/PLTV/88888888/224/3221225672/index.m3u8
+东南卫视,http://39.134.65.175/PLTV/88888888/224/3221225672/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://111.225.92.130:8800/hls/48/index.m3u8
 东南卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
