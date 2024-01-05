@@ -62,7 +62,9 @@
 云南卫视720,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040019/1.m3u8?channel-id=bestzb&Contentid=5000000006000040019&livemode=1&stbId=3
 云南卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 
-
+内蒙古卫视720,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
+内蒙古卫视720,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
+内蒙古卫视720,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
 内蒙古卫视720,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=3
 内蒙古卫视720,http://111.225.92.130:8800/hls/54/index.m3u8
 内蒙古卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
