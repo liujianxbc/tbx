@@ -68,24 +68,22 @@
 
 
 
-厦门卫视720,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
+
 厦门卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 
 
-吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
-吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027730/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3
+
 吉林卫视,http://111.225.92.130:8800/hls/51/index.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-吉林卫视720,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040013/1.m3u8?channel-id=bestzb&Contentid=5000000006000040013&livemode=1&stbId=3
-吉林卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
+
+
 延边tv,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 
 
-四川卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
-四川卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000016825/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=3
+
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视,http://111.20.35.103:6610/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=00
-四川卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
+
 
 
 
