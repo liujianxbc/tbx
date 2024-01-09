@@ -87,36 +87,23 @@
 
 
 
-天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000001000030788/1.m3u8?channel-id=bestzb&Contentid=5000000001000030788&livemode=1&stbId=3
-天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000003475/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=3
-天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006827/1.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3
-天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009186/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=3
-天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=3
-天津卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265026/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=3
-天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-天津卫视,http://221.2.36.34:8888/newlive/live/hls/42/live.m3u8
+
+
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 
 
 
-宁夏卫视720,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000031451/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=3
-宁夏卫视720,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040022/1.m3u8?channel-id=bestzb&Contentid=5000000006000040022&livemode=1&stbId=3
+
 宁夏卫视720,http://222.175.159.226:808/hls/202367/index.m3u8
-宁夏卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
 
 
-安徽卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009954/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=3
-安徽卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265025/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265025&livemode=1&stbId=3
-安徽卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000030159/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3
-安徽卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000020780/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=3
-安徽卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000001000027288/1.m3u8?channel-id=bestzb&Contentid=5000000001000027288&livemode=1&stbId=3
-安徽卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000023002/1.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=3
+
+
 安徽卫视,http://61.169.37.218:9901/tsfile/live/0130_1.m3u8?key=txiptv
 安徽卫视,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8
 安徽卫视,http://111.20.35.103:6610/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=00
-安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
-安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
+
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8
 
