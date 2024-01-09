@@ -1,9 +1,7 @@
 
 🇨🇳河南地方,#genre#
 
-河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027731/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
-河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000017925/1.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=3
+
 
 
 无线淮安,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
@@ -35,42 +33,30 @@
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 
-东南卫视,http://39.134.65.164/PLTV/88888888/224/3221225672/index.m3u8
-东南卫视,http://39.134.65.179/PLTV/88888888/224/3221225672/index.m3u8
-东南卫视,http://39.134.65.173/PLTV/88888888/224/3221225672/index.m3u8
-东南卫视,http://39.134.65.175/PLTV/88888888/224/3221225672/index.m3u8
+
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://111.225.92.130:8800/hls/48/index.m3u8
-东南卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
+
+东方卫视,http://39.134.65.164/PLTV/88888888/224/3221225672/index.m3u8
+东方卫视,http://39.134.65.179/PLTV/88888888/224/3221225672/index.m3u8
+东方卫视,http://39.134.65.173/PLTV/88888888/224/3221225672/index.m3u8
+东方卫视,http://39.134.65.175/PLTV/88888888/224/3221225672/index.m3u8
 
 东方卫视,http://39.134.65.149/PLTV/88888888/224/3221225942/1.m3u8
 东方卫视,http://39.134.65.130/PLTV/88888888/224/3221225942/1.m3u8
 东方卫视,http://39.134.65.141/PLTV/88888888/224/3221225942/1.m3u8
 东方卫视,http://39.134.65.151/PLTV/88888888/224/3221225942/1.m3u8
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 
 云南卫视,http://221.2.36.34:8888/newlive/live/hls/27/live.m3u8
-云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8
-云南卫视,https://epg.pw/stream/f72d8c76d15c9cf3efe23af82179802a374d97971eb4f87a304f1db28cbc482b.ctv
-云南卫视,https://epg.pw/stream/9ec5350e6d4fc8fa0d020c7ec6b3382fa83ccfe40cb5d71cc89cf2505e81bb95.m3u8
-云南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031120/1.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
-云南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=3
-云南卫视720,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040019/1.m3u8?channel-id=bestzb&Contentid=5000000006000040019&livemode=1&stbId=3
-云南卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 
-内蒙古卫视720,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 内蒙古卫视720,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
-内蒙古卫视720,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
-内蒙古卫视720,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=3
+内蒙古卫视720,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 内蒙古卫视720,http://111.225.92.130:8800/hls/54/index.m3u8
-内蒙古卫视720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
+内蒙古卫视720,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
 
-北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000021288/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3
-北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
+
 北京卫视,https://live.sjsrm.com/bjsjs/sd/live.m3u8
 北京卫视,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
