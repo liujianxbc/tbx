@@ -1,9 +1,6 @@
 
 🇨🇳河南地方,#genre#
 
-
-
-
 无线淮安,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 运城2,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
@@ -31,8 +28,6 @@
 🇨🇳卫视频道,#genre#
 
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-
-
 
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://111.225.92.130:8800/hls/48/index.m3u8
@@ -100,45 +95,27 @@
 
 
 
-安徽卫视,http://61.169.37.218:9901/tsfile/live/0130_1.m3u8?key=txiptv
+
 安徽卫视,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8
 安徽卫视,http://111.20.35.103:6610/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=00
-
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-安徽卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8
 
 
-山东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000020424/1.m3u8?channel-id=bestzb&Contentid=5000000004000020424&livemode=1&stbId=3
-山东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=3
-山东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265019/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265019&livemode=1&stbId=3
-山东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000004134/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=3
-山东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000016568/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3
-山东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027763/1.m3u8?channel-id=bestzb&Contentid=5000000010000027763&livemode=1&stbId=3
+
 山东卫视,http://221.2.36.34:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-山东卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001028/index.m3u8
+
 山东卫视,http://111.20.35.103:6610/000000001000/1000000001000012807/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=00
-山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 
 szdst,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 
 山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
-山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
-山西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040023/1.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=3
-山西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=3
 山西卫视,http://61.169.37.218:9901/tsfile/live/0123_1.m3u8?key=txiptv
 山西卫视,http://111.225.92.130:8800/hls/53/index.m3u8
 
 
-广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000031076/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3
-广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030417/1.m3u8?channel-id=bestzb&Contentid=5000000010000030417&livemode=1&stbId=3
-广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=3
-广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000014176/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3
-广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265034/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3
-广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000014694/1.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=3
-广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-广东卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8
+
+
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8
 广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
@@ -147,15 +124,13 @@ szdst,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 广东卫视,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 
 
-广西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=3
-广西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040014/1.m3u8?channel-id=bestzb&Contentid=5000000006000040014&livemode=1&stbId=3
-广西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031118/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
+
 广西卫视,http://111.225.92.130:8800/hls/50/index.m3u8
 广西卫视,http://58.220.219.14:9901/tsfile/live/0113_1.m3u8?key=txiptv
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 广西卫视,http://221.2.36.34:8888/newlive/live/hls/26/live.m3u8
-广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
-广西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001224/index.m3u8
+
+
 广西卫视,http://111.20.35.103:6610/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=00
 广西卫视,http://111.20.35.103:6610/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=00
 广西卫视,https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
@@ -163,47 +138,35 @@ szdst,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 
 
-新疆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
-新疆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040018/1.m3u8?channel-id=bestzb&Contentid=5000000006000040018&livemode=1&stbId=3
+
 新疆卫视,http://111.225.92.130:8800/hls/59/index.m3u8
 新疆卫视,http://58.220.219.14:9901/tsfile/live/0120_6.m3u8?key=txiptv
 新疆卫视,http://222.71.90.218:8888/newlive/live/hls/47/live.m3u8
-新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
+
 新疆卫视,http://221.2.36.34:8888/newlive/live/hls/38/live.m3u8
 
-江苏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=3
-江苏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000014861/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=3
-江苏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265030/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265030&livemode=1&stbId=3
-江苏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000019351/1.m3u8?channel-id=bestzb&Contentid=5000000004000019351&livemode=1&stbId=3
-江苏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018509/1.m3u8?channel-id=bestzb&Contentid=5000000010000018509&livemode=1&stbId=3
-江苏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001828/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3
+
 江苏卫视,http://111.225.92.130:8800/hls/32/index.m3u8
-江苏卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8
+
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 江苏卫视,http://111.20.35.103:6610/000000001000/1000000001000001828/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=00
 江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
-江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
-江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+
 江苏卫视,http://221.2.36.34:8888/newlive/live/hls/22/live.m3u8
 
-河北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=3
-河北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
+
 河北卫视,http://183.196.25.171:808/hls/16/index.m3u8
-河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
-河北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8
+
+
 
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 
-河南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8
+
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
-河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027731/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
-河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000017925/1.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=3
+
 河南卫视,http://58.220.219.14:9901/tsfile/live/0139_1.m3u8?key=txiptv
 
-浙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=3
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -211,124 +174,89 @@ szdst,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 浙江卫视,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8
-浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
-浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 浙江卫视,http://111.20.35.103:6610/000000001000/1000000001000009806/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=00
 浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
-浙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8
 
 
-深圳卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000002116/1.m3u8?channel-id=wasusyt&Contentid=6000000001000002116&livemode=1&stbId=3
+
 深圳卫视,http://111.225.92.130:8800/hls/44/index.m3u8
 深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
-深圳卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001030/index.m3u8
+
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
-深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-深圳卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000011645/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=3
-深圳卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000009227/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=3
-深圳卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265028/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=3
-深圳卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000024026/1.m3u8?channel-id=bestzb&Contentid=5000000010000024026&livemode=1&stbId=3
-深圳卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000007410/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=3
 
 
-湖北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000015436/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=3
-湖北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000014954/1.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=3
-湖北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000022140/1.m3u8?channel-id=bestzb&Contentid=5000000010000022140&livemode=1&stbId=3
-湖北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000024621/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3
-湖北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265023/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=3
-湖北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000010355/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=3
+
+
+
 湖北卫视,http://111.225.92.130:8800/hls/45/index.m3u8
 湖北卫视,http://61.169.37.218:9901/tsfile/live/0122_1.m3u8?key=txiptv
-湖北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001027/index.m3u8
+
 湖北卫视,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
-湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
-湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 湖北卫视,http://111.20.35.103:6610/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=00
 湖北卫视,http://111.20.35.103:6610/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=00
 
-湖南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000032695/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=3
-湖南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
-湖南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001026/index.m3u8
+
 湖南卫视,http://111.20.35.103:6610/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=00
-湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
+
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
 
 antv,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
-甘肃卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040021/1.m3u8?channel-id=bestzb&Contentid=5000000006000040021&livemode=1&stbId=3
-甘肃卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
-甘肃卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=3
+
 甘肃卫视,http://58.220.219.14:9901/tsfile/live/0141_1.m3u8?key=txiptv
-甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
+
 甘肃卫视,http://111.20.35.103:6610/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=00
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
-甘肃卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001298/index.m3u8
-甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
 
 
-西藏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000015894/1.m3u8?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1&stbId=3
+
+
+
 西藏卫视,http://111.225.92.130:8800/hls/58/index.m3u8
 西藏卫视,http://gxdl-lhs.8866.org:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
-西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+
 西藏卫视,http://221.2.36.34:8888/newlive/live/hls/37/live.m3u8
 
-贵州卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=3
-贵州卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025843/1.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
 贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
-贵州卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001184/index.m3u8
+
+
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
 贵州卫视,http://111.20.35.103:6610/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=00
 
-辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
 辽宁卫视,http://111.225.92.130:8800/hls/36/index.m3u8
-辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
-辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
-辽宁卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001035/index.m3u8
+
+
 辽宁卫视,http://111.20.35.103:6610/000000001000/1000000002000024033/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=00
 辽宁卫视,https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
 辽宁卫视,http://221.2.36.34:8888/newlive/live/hls/43/live.m3u8
-辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001945/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=3
-辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=3
-辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265022/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=3
-辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000001000008940/1.m3u8?channel-id=bestzb&Contentid=5000000001000008940&livemode=1&stbId=3
 辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 
-重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025797/1.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=3
-重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3
-重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001096/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001096&livemode=1&stbId=3
-重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265017/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=3
 重庆卫视,http://111.225.92.130:8800/hls/47/index.m3u8
-重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
-重庆卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8
+
 重庆卫视,http://111.20.35.103:6610/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=00
 重庆卫视,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8
 
 
 陕西卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
-陕西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040017/1.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=3
-陕西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3
 陕西卫视,http://111.225.92.130:8800/hls/52/index.m3u8
 陕西卫视,http://58.220.219.14:9901/tsfile/live/0120_7.m3u8?key=txiptv
-汉中频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
-lytv,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226322/index.m3u8
 
-青海卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
+
+
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
 青海卫视,http://111.225.92.130:8800/hls/55/index.m3u8
@@ -336,19 +264,11 @@ lytv,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226322/index.m3u8
 青海卫视,http://111.20.35.103:6610/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=00
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 
-青海卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040015/1.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
 
-黑龙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
-黑龙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000009082/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=3
-黑龙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000031107/1.m3u8?channel-id=bestzb&Contentid=5000000010000031107&livemode=1&stbId=3
-黑龙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000016510/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016510&livemode=1&stbId=3
-黑龙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025203/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3
-黑龙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265029/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
 黑龙江卫视,http://111.225.92.130:8800/hls/40/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-黑龙江卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8
+
+
 黑龙江卫视,https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD
 黑龙江卫视,http://111.20.35.103:6610/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=00
 
@@ -358,8 +278,8 @@ lytv,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226322/index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 江西卫视,http://111.20.35.103:6610/000000001000/1000000001000013731/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=00
 江西卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
-江西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
-江西卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001034/index.m3u8
+
+
 江西卫视,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
 
 
@@ -376,13 +296,13 @@ lytv,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226322/index.m3u8
 
 兵团卫视,https://epg.pw/stream/85e6975cbd16ed8411909474995d0973728889c2e84a98f21e3063311adb4c84.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 
 
 
-海南卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8
+
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+
+
 
 
 
