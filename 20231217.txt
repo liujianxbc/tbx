@@ -435,67 +435,17 @@ CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 
 🇭🇰港台,#genre#
 
-TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBS,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 
-三立,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-三立,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1016
-
-东森,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156403
-
-东森新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156397&extension=ts
-
-东森电影,http://103.45.68.47/gy/gy563/xsj.php?id=ebc-movie
-
-东森综合,http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-
-中天,http://211.72.65.236:8541/.m3u8
-中天,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-
-中视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
-
 八大,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156391
-
-公视,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
-公视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8505/.m3u8
-
-
-凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
-
-
-
-
-
-
-华视,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156391&extension=ts
-
-卫视中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-
-台视,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156398&extension=ts
-
-明珠台,http://103.45.68.47/gy/gy563/xsj.php?id=pearl
-
-明珠台,http://r.jdshipin.com/ZQ4kN
-
-金鹰卡通,http://gxdl-lhs.8866.org:85/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-
-民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-
-rctv,https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
-
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台,https://tvp22.sky4k.top/index1.php
-翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
-翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
-
+东森,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156403
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
-香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 香港卫视,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经台,https://epg.pw/stream/6aa09c3351da5cc83409241b0eed11a9ea42c16556a98b3be82838b6544c538b.m3u8
+耀才财经台,https://epg.pw/stream/72e6d938d023bbb1ad2c783c86273475d217a32541d77fb5c4113cfe7ae02b2b.m3u8
 
 🚀备用线路,#genre#
 
