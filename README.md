@@ -7,7 +7,7 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/liujianxbc/tbx/main/peiqian
 https://raw.yzuu.cf/liujianxbc/tbx/main/peiqian.yaml
 
 
-https://raw.gitmirror.com/liujianxbc/tbx/main/20240119ceshi.txt
+https://raw.gitmirror.com/liujianxbc/tbx/main/20240119ceshi.txt       <---但不会随之更新。
 
 https://mirror.ghproxy.com/raw.githubusercontent.com/liujianxbc/tbx/main/20240119ceshi.txt
 
