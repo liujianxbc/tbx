@@ -14,7 +14,8 @@ dns:
     - 8.8.4.4
     - tls://1.0.0.1:853
     - tls://dns.google:853
-proxies:- uuid: 66fef53b-1b57-466d-89a4-bd99b90f6473
+proxies:
+- uuid: 66fef53b-1b57-466d-89a4-bd99b90f6473
   cipher: auto
   alterId: 0
   server: 78.111.103.5
