@@ -37,4 +37,57 @@ proxies:
   - {name: 🇺🇸 _US_美国 4, server: 95.164.46.154, port: 8080, type: vmess, uuid: 431fda16-e0f8-4884-b4fd-965f03f86471, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess}}
   - {name: 🇮🇳 _CN_中国->🇮🇳_IN_印度, server: service.ouluyun9803.com, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123}
   - {name: 🇩🇪 _DE_德国->🇫🇷_FR_法国, server: yx.zhke.cf, port: 443, type: vmess, uuid: 3b89f882-0c3f-4144-811d-91fce7ab3c05, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /D26xvdqUdCpvvPTz4R, headers: {Host: h196-fr.kxnn.eu.org}}}
-
+  - alterId: 0
+    cipher: auto
+    name: '20|baipaovpn乌克兰 #1'
+    network: ws
+    port: '80'
+    server: 94.131.13.110
+    servername: ''
+    tls: false
+    type: vmess
+    uuid: d3e40d59-b53c-4f4e-8867-bb598be864d2
+    ws-opts:
+      headers:
+        Host: lt1-vmess.sshmax.xyz
+      path: /vmess
+- alterId: 2
+  cipher: auto
+  name: 18|韩国4|@ripaojiedian
+  network: tcp
+  port: '1002'
+  server: 183.236.48.169
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 229ccd44-c56c-3947-88de-849dd70c180d	
+- alterId: 0
+  cipher: auto
+  name: 17,18|新加坡2|@ripaojiedian
+  network: ws
+  port: '80'
+  server: 104.17.25.2
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: d6664518-c8e1-42cf-f2c1-d33dcc01a8a6
+  ws-opts:
+    headers:
+      Host: sgvpn.catnipballs.gay
+    path: /  
+- alterId: 0
+  cipher: auto
+  name: 15,17,18|韩国2|@ripaojiedian
+  network: ws
+  port: '80'
+  server: 104.17.25.1
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 83c19463-f966-4adb-a7d8-b127825ffab2
+  ws-opts:
+    headers:
+      Host: kr.catnipballs.gay
+    path: /	
