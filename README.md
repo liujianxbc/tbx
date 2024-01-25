@@ -12,3 +12,6 @@ https://raw.gitmirror.com/liujianxbc/tbx/main/20240120.txt       <---但不会�
 https://mirror.ghproxy.com/raw.githubusercontent.com/liujianxbc/tbx/main/20240120.txt
 
 https://raw.yzuu.cf/liujianxbc/tbx/main/20240120.txt
+
+
+https://github.yunfile.fun/raw.githubusercontent.com/liujianxbc/tbx/main/tbx/20240125.json
