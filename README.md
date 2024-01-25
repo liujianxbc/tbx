@@ -16,4 +16,5 @@ https://raw.yzuu.cf/liujianxbc/tbx/main/20240120.txt
 
 https://github.yunfile.fun/raw.githubusercontent.com/liujianxbc/tbx/main/tbx/20240125.json
 
-https://github.yunfile.fun/raw.githubusercontent.com/liujianxbc/tbx/main/tbx/20240125.json
+https://github.yunfile.fun/raw.githubusercontent.com/liujianxbc/tbx/main/xwpeidui/bin-main/custom_spider.jar
+https://github.com/liujianxbc/tbx/blob/main/xwpeidui/bin-main/custom_spider.jar
