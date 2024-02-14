@@ -215,8 +215,7 @@ proxies:
   - {name: 🇨🇳CN-183.233.187.230-175, server: service.ouluyun9803.com, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: cfa17a0d-5e7d-4871-976e-f116e0818123}
   - {name: 🏁RELAY-173.245.58.51-176, server: 173.245.58.51, port: 443, type: vmess, uuid: 5c6fb3c8-4f46-4d63-9849-7c76f07f05c4, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ariuvws, tls: true, ws-headers: {Host: 4fungame.colocrossing.sbs}}
   - {name: 🇨🇳CN-36.139.104.222-177, server: 1c7s2g05.m1k2s.xyz, port: 31206, type: vmess, uuid: fe1bdcb3-bb4f-45e4-a950-e812531f7421, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: true, ws-headers: {Host: 1c7s2g05.m1k2s.xyz}}
-  - {name: 🏁RELAY-173.245.58.34-178, server: 173.245.58.34, port: 2096, type: trojan, password: DUvWfvC7xH, sni: my1.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd, skip-cert-verify: true}
-  - {name: 🇬🇧GB-18.135.228.225-179, server: 18.135.228.225, port: 443, type: ss, cipher: chacha20-poly1305, password: u17T3BvpYaaiuW2c}
+  - {name: 🏁RELAY-173.245.58.34-178, server: 173.245.58.34, port: 2096, type: trojan, password: DUvWfvC7xH, sni: my1.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd, skip-cert-verify: true}  
   - {name: 🇨🇳CN-36.139.104.222-180, server: 4a2u0a06.m1k2s.xyz, port: 31511, type: vmess, uuid: fe1bdcb3-bb4f-45e4-a950-e812531f7421, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: true, ws-headers: {Host: 4a2u0a06.m1k2s.xyz}}
   - {name: 🇨🇳CN-183.236.51.7-181, server: 183.236.51.7, port: 10801, type: trojan, password: 566238ab-a768-482e-b0f8-7eb73c3557f5, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
   - {name: 🇨🇳CN-183.236.51.7-182, server: 183.236.51.7, port: 10808, type: trojan, password: b99b5064-3f4e-484e-9279-ca0eaa21be07, sni: cloudflare.node-ssl.cdn-alibaba.com, skip-cert-verify: true}
