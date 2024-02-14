@@ -335,34 +335,34 @@ proxy-groups:
   - name: 🤘 手动选择
     type: select
     proxies:
-    - name: 🇺🇸 _US_美国
-    - name: 🇺🇸 _US_美国->🇨🇦_CA_加拿大
-    - name: 🇺🇸 _US_美国->🇨🇦_CA_加拿大 2
-    - name: 🇨🇦 _LU_卢森堡->🇨🇦_CA_加拿大
-    - name: 🇨🇦 _CA_加拿大
-    - name: 🇺🇸 _US_美国->🇩🇪_DE_德国
-    - name: 🇩🇪 _RU_俄罗斯联邦->🇩🇪_DE_德国
-    - name: 🇨🇿 _CN_中国->🇨🇿_CZ_捷克
-    - name: 🇺🇸 _US_美国 2
-    - name: 🇬🇧 _GB_英国
-    - name: 🇪🇸 _ES_西班牙
-    - name: 🇰🇷 _KR_韩国
-    - name: 🇺🇸 _CN_中国->🇺🇸_US_美国
-    - name: 🇺🇸 _CN_中国->🇺🇸_US_美国 2
-    - name: 🇱🇺 _LU_卢森堡->🇹🇷_TR_土耳其
-    - name: 🇺🇸 _CN_中国->🇺🇸_US_美国 3
-    - name: 🇺🇸 _US_美国 3
-    - name: 🇺🇦 _CN_中国->🇺🇦_UA_乌克兰
-    - name: 🇺🇸 _US_美国 4
-    - name: 🇮🇳 _CN_中国->🇮🇳_IN_印度
-    - name: 🇩🇪 _DE_德国->🇫🇷_FR_法国
-    - name: 🇨🇭CH-94.131.99.8-000
-    - name: 🏁RELAY-89.116.161.133-001
-    - name: 🇺🇸US-35.87.209.22-002
-    - name: 🇨🇳CN-183.236.51.7-003
-    - name: 🇨🇳CN-183.236.51.6-004
-    - name: 🇳🇱NL-91.242.229.77-005
-    - name: 🏁RELAY-104.21.8.157-006
+      - name: 🇺🇸 _US_美国
+      - name: 🇺🇸 _US_美国->🇨🇦_CA_加拿大
+      - name: 🇺🇸 _US_美国->🇨🇦_CA_加拿大 2
+      - name: 🇨🇦 _LU_卢森堡->🇨🇦_CA_加拿大
+      - name: 🇨🇦 _CA_加拿大
+      - name: 🇺🇸 _US_美国->🇩🇪_DE_德国
+      - name: 🇩🇪 _RU_俄罗斯联邦->🇩🇪_DE_德国
+      - name: 🇨🇿 _CN_中国->🇨🇿_CZ_捷克
+      - name: 🇺🇸 _US_美国 2
+      - name: 🇬🇧 _GB_英国
+      - name: 🇪🇸 _ES_西班牙
+      - name: 🇰🇷 _KR_韩国
+      - name: 🇺🇸 _CN_中国->🇺🇸_US_美国
+      - name: 🇺🇸 _CN_中国->🇺🇸_US_美国 2
+      - name: 🇱🇺 _LU_卢森堡->🇹🇷_TR_土耳其
+      - name: 🇺🇸 _CN_中国->🇺🇸_US_美国 3
+      - name: 🇺🇸 _US_美国 3
+      - name: 🇺🇦 _CN_中国->🇺🇦_UA_乌克兰
+      - name: 🇺🇸 _US_美国 4
+      - name: 🇮🇳 _CN_中国->🇮🇳_IN_印度
+      - name: 🇩🇪 _DE_德国->🇫🇷_FR_法国
+      - name: 🇨🇭CH-94.131.99.8-000
+      - name: 🏁RELAY-89.116.161.133-001
+      - name: 🇺🇸US-35.87.209.22-002
+      - name: 🇨🇳CN-183.236.51.7-003
+      - name: 🇨🇳CN-183.236.51.6-004
+      - name: 🇳🇱NL-91.242.229.77-005
+      - name: 🏁RELAY-104.21.8.157-006
     - name: 🇩🇪DE-5.104.108.109-007
     - name: 🇩🇪DE-5.104.108.120-008
     - name: 🏁RELAY-89.116.180.179-009
