@@ -97,6 +97,7 @@ CCTV14,http://39.134.65.183/PLTV/88888888/224/3221225674/index.m3u8
 CCTV14,http://cfss.cc/ds/bst.php?id=Cf-15
 CCTV14,http://221.2.36.34:8888/newlive/live/hls/16/live.m3u8
 
+
 CCTV15,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
@@ -123,6 +124,7 @@ CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.
 
 CCTV-4k,http://cfss.cc/api/ysp/cctv4k.m3u8
 CCTV-4K,http://ainm.cc/a/play/php/CCTV-4k.php?id=4khd
+CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://39.134.65.173/PLTV/88888888/224/3221225507/index.m3u8
@@ -130,6 +132,8 @@ CCTV5+,http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8
 CCTV5+,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+,http://cfss.cc/api/ysp/cctv5p.m3u8
+
+CCTV-8K 超高清,https://pi.0472.org/live/cctv8k.m3u8?token=241703
 
 CCTV世界地理,https://epg.pw/stream/6c49b3dcaa8df3ccc513b14c3dbeb8b0c6a404805e88aee19c1ebc53d79dbfef.m3u8
 
