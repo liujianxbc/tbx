@@ -55,6 +55,7 @@ CCTV7,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
 CCTV7,http://39.134.65.164/PLTV/88888888/224/3221225671/1.m3u8
 CCTV7,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8
 CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV7,http://121.18.43.254:10000/hls/7/index.m3u8
 
 CCTV8,http://39.134.65.181/PLTV/88888888/224/3221225795/index.m3u8
 CCTV8,http://39.134.66.2/PLTV/88888888/224/3221225795/index.m3u8
@@ -62,6 +63,7 @@ CCTV8,http://39.134.65.175/PLTV/88888888/224/3221225795/index.m3u8
 CCTV8,http://39.134.65.177/PLTV/88888888/224/3221225795/1.m3u8
 CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8,http://cfss.cc/api/ysp/cctv8.m3u8
+CCTV8,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 
 CCTV9,http://39.134.65.166/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://39.134.65.183/PLTV/88888888/224/3221225676/index.m3u8
@@ -69,6 +71,7 @@ CCTV9,http://39.134.65.173/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://39.134.66.48/PLTV/88888888/224/3221225676/index.m3u8
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV9,http://cfss.cc/api/ysp/cctv9.m3u8
+CCTV9,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 
 CCTV10,http://39.134.65.179/PLTV/88888888/224/3221225677/index.m3u8
 CCTV10,http://39.134.65.181/PLTV/88888888/224/3221225677/index.m3u8
