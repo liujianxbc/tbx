@@ -6,23 +6,11 @@ CCTV1,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212260
 CCTV1,http://39.135.133.178:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV13,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV13,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
-CCTV13,http://222.134.57.82:8154/tsfile/live/0013_1.m3u8
 
-CCTV13,http://cfss.cc/api/ysp/cctv13.m3u8
-CCTV13,http://cfss.cc/ds/bst.php?id=Cf-14
-CCTV13,http://pi.0472.org/tv/cbn.php?id=chcdzdyHD
-CCTV13,http://pi.0472.org/tv/cbn.php?id=chcjtyyHD
-CCTV13,http://pi.0472.org/tv/cbn.php?id=chcgqdyHD
-CCTV13,https://pi.0472.org/tv/mzt.php?auth=230918
-CCTV13,https://pi.0472.org/tv/mzt.php?auth=2309081833
-CCTV13,http://221.2.36.34:8888/newlive/live/hls/15/live.m3u8
+
+
+CCTV13,
+
 
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
