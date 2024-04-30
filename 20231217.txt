@@ -10,8 +10,8 @@ CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 
 
 
-CCTV13,
-
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8
 
 CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -90,12 +90,17 @@ CCTV11,http://8.210.232.168/php/migu.php?id=cctv11
 CCTV11,https://epg.pw/stream/06a550aef56b73393aa133292ab85e5b3d8bb25c9cd333708c727443341a4af4.m3u8
 CCTV11,http://58.220.219.14:9901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV11,http://gmxw.7766.org:808/hls/29/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
 
 CCTV12,http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
 CCTV12,http://39.134.65.162/PLTV/88888888/224/3221225669/index.m3u8
 CCTV12,http://39.134.65.173/PLTV/88888888/224/3221225669/1.m3u8
 CCTV12,http://39.134.65.179/PLTV/88888888/224/3221225669/index.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8
+
 
 CCTV14,http://39.134.67.110/PLTV/88888888/224/3221225674/index.m3u8
 CCTV14,http://39.134.65.164/PLTV/88888888/224/3221225674/index.m3u8
