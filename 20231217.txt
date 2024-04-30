@@ -156,7 +156,7 @@ CCTV世界地理,https://epg.pw/stream/6c49b3dcaa8df3ccc513b14c3dbeb8b0c6a404805
 CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 
 CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
-
+CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
 
 
 🇨🇳卫视频道,#genre#
