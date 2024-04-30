@@ -80,6 +80,8 @@ CCTV10,http://39.134.66.48/PLTV/88888888/224/3221225677/index.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV10,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
 CCTV10,http://221.2.36.34:8888/newlive/live/hls/12/live.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
 
 CCTV11,http://39.134.67.110/PLTV/88888888/224/3221225517/index.m3u8
 CCTV11,http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8
