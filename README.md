@@ -1,11 +1,11 @@
 https://live.fanmingming.com/
 在线播放和下载工具
 
-https://mirror.ghproxy.com/raw.githubusercontent.com/liujianxbc/tbx/main/20231217.txt
-https://mirror.ghproxy.com/raw.githubusercontent.com/liujianxbc/tbx/main/xxnuoplugins.json
 https://raw.gitmirror.com/liujianxbc/tbx/main/20231217.txt
-https://raw.gitmirror.com/liujianxbc/tbx/main/clashnode.txt
-https://mirror.ghproxy.com/raw.githubusercontent.com/liujianxbc/tbx/main/peiqian.yaml
+https://raw.gitmirror.com/liujianxbc/tbx/main/xxnuoplugins.json
+https://fastly.jsdelivr.net/gh/liujianxbc/tbx@main/20231217.txt
+https://fastly.jsdelivr.net/gh/liujianxbc/tbx@main/clashnode.txt
+https://raw.kkgithub.com/liujianxbc/tbx/main/peiqian.yaml
 
 https://raw.yzuu.cf/liujianxbc/tbx/main/peiqian.yaml
 
