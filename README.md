@@ -1,6 +1,8 @@
 https://live.fanmingming.com/
 在线播放和下载工具
 
+https://raw.gitmirror.com/liujianxbc/tbx/main/dc.txt
+
 https://raw.gitmirror.com/liujianxbc/tbx/main/20231217.txt
 https://raw.gitmirror.com/liujianxbc/tbx/main/xxnuoplugins.json
 https://fastly.jsdelivr.net/gh/liujianxbc/tbx@main/20231217.txt
@@ -12,7 +14,7 @@ https://raw.yzuu.cf/liujianxbc/tbx/main/peiqian.yaml
 
 https://raw.gitmirror.com/liujianxbc/tbx/main/20240120.txt       <---但不会随之更新。
 https://raw.yzuu.cf/liujianxbc/tbx/main/20231217.txt          <---应该失效了
-https://mirror.ghproxy.com/raw.githubusercontent.com/liujianxbc/tbx/main/20240120.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/liujianxbc/tbx/main/20231217.txt
 
 https://github.yunfile.fun/raw.githubusercontent.com/liujianxbc/tbx/main/tbx/20240125.json
 
