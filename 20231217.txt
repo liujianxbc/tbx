@@ -7,36 +7,25 @@ CCTV1,http://39.135.133.178:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-CCTV1,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/1300.m3u8
-CCTV1,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.83:8012
-CCTV1,http://itms.xznet.org:41097/rtp/239.254.200.45:8008
 
 
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV13,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.13:8008
-CCTV13,http://itms.xznet.org:41097/rtp/239.254.200.9:8264
-
 
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV2,http://itms.xznet.org:41097/rtp/239.254.200.158:6000
 CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 
 
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV3,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/1300.m3u8
-CCTV3,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.191:6057
+
+
 
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV4,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/1300.m3u8
-CCTV4,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.251:6141
-CCTV4,http://itms.xznet.org:41097/rtp/239.254.200.190:6307
+
 
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.181:6046
-CCTV5,http://itms.xznet.org:41097/rtp/239.254.200.14:6000
 
 
 CCTV6,http://39.134.65.177/PLTV/88888888/224/3221225814/1.m3u8
@@ -44,34 +33,25 @@ CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV6,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel6/1300.m3u8
-CCTV6,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.193:6058
 
 
 CCTV7,http://39.134.65.164/PLTV/88888888/224/3221225671/1.m3u8
 CCTV7,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8
 CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV7,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel7/1300.m3u8
-CCTV7,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.194:6059
-CCTV7,http://itms.xznet.org:41097/rtp/239.254.200.159:6000
 
 CCTV8,http://39.134.65.177/PLTV/88888888/224/3221225795/1.m3u8
 CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel8/1300.m3u8
-CCTV8,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.195:6060
-CCTV8,http://itms.xznet.org:41097/rtp/239.254.200.16:6000
 
 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel9/1300.m3u8
-CCTV9,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.107:6020
-CCTV9,http://itms.xznet.org:41097/rtp/239.254.200.59:8112
 
 
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel10/1300.m3u8
-CCTV10,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.196:6061
-CCTV10,http://itms.xznet.org:41097/rtp/239.254.200.160:6000
 
 CCTV11,http://39.134.65.173/PLTV/88888888/224/3221225517/1.m3u8
 CCTV11,http://39.134.65.183/PLTV/88888888/224/3221225517/1.m3u8
@@ -79,28 +59,20 @@ CCTV11,http://58.220.219.14:9901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV11,http://gmxw.7766.org:808/hls/29/index.m3u8
 CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
-CCTV11,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.153:6321
-CCTV11,http://itms.xznet.org:41097/rtp/239.254.201.123:8120
 
 
 CCTV12,http://39.134.65.173/PLTV/88888888/224/3221225669/1.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8
-CCTV12,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.197:6062
-CCTV12,http://itms.xznet.org:41097/rtp/239.254.200.161:6000
 
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/1300.m3u8
-CCTV14,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.198:6063
-CCTV14,http://itms.xznet.org:41097/rtp/239.254.200.162:6000
 
 CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV15,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.154:6322
-CCTV15,http://itms.xznet.org:41097/rtp/239.254.201.124:8136
 
 CCTV16,http://39.134.68.155:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=OTT1348620220515060450345698
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
@@ -108,17 +80,13 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://39.134.65.183/PLTV/88888888/224/3221225708/1.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CCTV-17,http://itms.xznet.org:41097/rtp/239.254.201.120:8144
 
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 
 
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV5+,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
-CCTV5+,http://victoryblackcat.dscloud.me:8888/rtp/239.253.92.82:8013
-CCTV5+,http://itms.xznet.org:41097/rtp/239.254.200.46:8004
 
-CGTN,http://itms.xznet.org:41097/rtp/239.254.200.12:8056
 
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 CGTN,https://livedoc.cgtn.com/500d/prog_index.m3u8
@@ -129,6 +97,9 @@ CETV-1,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
 CETV-2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
 CETV-3,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
 CETV-4,http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
+
+
+
 CETV-早期教育,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.164:6440
 
 CCTV-央视台球,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.231:6409
