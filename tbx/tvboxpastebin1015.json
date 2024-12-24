@@ -28,25 +28,24 @@
             "group": "港澳台",
             "channels": [
                 {
-                    "name": "东森戏剧",
+                    "name": "Channel 5 HD",
                     "urls": [
-                        "https://epg.pw/stream/b7ad44978dbadf18d361ec718ab5d8f38d6c6e3b19449dfd5df12deaafc44c40.m3u8"
+                        "http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8"
                     ]
                 },
                 {
-                    "name": "东森电影",
-                    "tvg_name": "东森电影",
+                    "name": "Channel 8 HD",
+                    "tvg_name": "Channel 8 HD",
                     "urls": [
-                        "https://epg.pw/stream/4a62ed9593b78b102478dfb9ee5c49007c9082b303b3056a8c99ea50647847de.m3u8",
-                        "https://epg.pw/stream/dd9b6950813e8f97a68646b108177c563178a6faa07c1cfafc3eda8d20e583e7.m3u8",
-                        "https://epg.pw/stream/534addb7db21ef560c4991ec9b7076a980254ff42250523601024737b843215b.m3u8"
+                        "http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8"
+            
                     ]
                 },
                 {
-                    "name": "东森超视",
-                    "tvg_name": "东森超视",
+                    "name": "Channel U HD",
+                    "tvg_name": "Channel U HD",
                     "urls": [
-                        "https://epg.pw/stream/f4761048a2b81260c01f3e87041c241c524fe61c2c8966d9e9b60fb7ee6ea0bc.m3u8"
+                        "http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8"
                     ]
                 },
                 {
@@ -250,7 +249,7 @@
                     ]
                 }
             ]
-        },
+        }
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
