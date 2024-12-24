@@ -25,7 +25,7 @@
 {"key":"南国影源","name":"南国影源(切)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 "lives":[{"name":"16万•MV","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"},
-{"name":"aktv","type":0,"url":""http://aktv.top/live.m3u"}
+{"name":"aktv","type":0,"url":"http://aktv.top/live.m3u"}
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
