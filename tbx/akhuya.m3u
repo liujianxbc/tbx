@@ -185,3 +185,6 @@ http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 #EXTINF:62 group-title="AKTV" aktv-server-group="AKTV3" tvg-id="aktv3/4k" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv", 翡翠台4K
 http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
+
+#EXTINF:-1 tvg-name="航海王动漫" tvg-id="航海王动漫" tvg-logo="" group-title="儿童频道", 航海王动漫
+http://1.94.31.214:35455/huya/16913382
