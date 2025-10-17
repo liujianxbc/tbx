@@ -17,11 +17,10 @@ CCTV1,http://60.16.0.216:5757/hls/13/index.m3u8
 CCTV1,http://112.27.235.94:8000/hls/14/index.m3u8
 CCTV1,http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV1,http://60.16.0.216:5757/hls/14/index.m3u8
+
 CCTV1,http://112.27.235.94:8000/hls/15/index.m3u8
 CCTV1,http://60.16.0.216:5757/hls/15/index.m3u8
 CCTV1,http://112.27.235.94:8000/hls/16/index.m3u8
-CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV1,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8
 CCTV1,http://112.123.206.32:808/hls/1/index.m3u8
@@ -1223,4 +1222,5 @@ CETV4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+
 
