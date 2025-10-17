@@ -1,14 +1,12 @@
 
 自用,#genre#
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+
+
+
+
+
+
 CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV1,http://112.27.235.94:8000/hls/11/index.m3u8
 CCTV1,http://112.27.235.94:8000/hls/12/index.m3u8
@@ -18,7 +16,7 @@ CCTV1,http://112.27.235.94:8000/hls/13/index.m3u8
 CCTV1,http://60.16.0.216:5757/hls/13/index.m3u8
 CCTV1,http://112.27.235.94:8000/hls/14/index.m3u8
 CCTV1,http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,https://event.pull.hebtv.com/jishi/cp1.m3u8
+
 CCTV1,http://60.16.0.216:5757/hls/14/index.m3u8
 CCTV1,http://112.27.235.94:8000/hls/15/index.m3u8
 CCTV1,http://60.16.0.216:5757/hls/15/index.m3u8
@@ -1225,3 +1223,4 @@ CETV4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+
