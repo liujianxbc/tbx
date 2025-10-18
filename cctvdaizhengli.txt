@@ -1,10 +1,38 @@
+112.27.235.94,#genre#
+
+CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/11/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/12/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/13/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/14/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/15/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/16/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/11/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/12/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/13/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/14/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/15/index.m3u8
+CCTV1,http://112.27.235.94:8000/hls/16/index.m3u8
+CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
+CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
+CCTV3,http://112.27.235.94:8000/hls/3/index.m3u8
+CCTV3,http://112.27.235.94:8000/hls/3/index.m3u8
+CCTV4,http://112.27.235.94:8000/hls/4/index.m3u8
+CCTV5,http://112.27.235.94:8000/hls/5/index.m3u8
+CCTV5,http://112.27.235.94:8000/hls/6/index.m3u8
+CCTV5,http://112.27.235.94:8000/hls/5/index.m3u8
+CCTV5,http://112.27.235.94:8000/hls/6/index.m3u8
+CCTV6,http://112.27.235.94:8000/hls/7/index.m3u8
+CCTV6,http://112.27.235.94:8000/hls/7/index.m3u8
+CCTV7,http://112.27.235.94:8000/hls/8/index.m3u8
+CCTV7,http://112.27.235.94:8000/hls/8/index.m3u8
+CCTV8,http://112.27.235.94:8000/hls/9/index.m3u8
+CCTV8,http://112.27.235.94:8000/hls/9/index.m3u8
+CCTV9,http://112.27.235.94:8000/hls/10/index.m3u8
+CCTV9,http://112.27.235.94:8000/hls/10/index.m3u8
+
 
 自用,#genre#
-
-
-
-
-
 
 
 CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
@@ -1221,6 +1249,7 @@ CETV4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+
 
 
 
