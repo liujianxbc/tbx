@@ -91,13 +91,7 @@ CCTV14,http://60.29.124.66:6080/hls/25/index.m3u8
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 
 
-CCTV5+,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
 
-
-
-
-
-CCTV-风云音乐,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
 
 咪咕直播,#genre#
 
