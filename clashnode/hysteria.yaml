@@ -1,3 +1,20 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+dns:
+  enabled: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 8.8.4.4
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
+proxies:
   - {name: 🇩🇪 德国 | DEU, server: banmabanmabanmabanmabanmabanma2.wanlidag.top, port: 54265, type: hysteria2, password: bf58be6c-1d41-46d5-b209-f61db43c6aaa, auth: bf58be6c-1d41-46d5-b209-f61db43c6aaa, sni: banmabanmabanmabanmabanmabanma2.wanlidag.top, skip-cert-verify: true, udp: true}
   - {name: 🇩🇪 德国 | DEU 2, server: sfjxjp.sufujia.top, port: 57300, type: hysteria2, password: e59f7414-17f1-4403-a567-3faf838fcf63, auth: e59f7414-17f1-4403-a567-3faf838fcf63, sni: sfjxjp.sufujia.top, skip-cert-verify: true, udp: true}
   - {name: 🇩🇪 德国 | DEU 4, server: banmabanmabanmabanmabanmabanma2.wanlidag.top, port: 54265, type: hysteria2, password: 5b786016-a0dd-4613-ad2d-0a10a8f8702d, auth: 5b786016-a0dd-4613-ad2d-0a10a8f8702d, sni: banmabanmabanmabanmabanmabanma2.wanlidag.top, skip-cert-verify: true, udp: true}
