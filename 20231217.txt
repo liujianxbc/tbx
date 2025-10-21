@@ -260,12 +260,7 @@ AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 
 CGTN,#genre#
 
-CGTN英语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN西语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
-CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
-CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8
-CGTN阿语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
-CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+
 
 
 
