@@ -28,69 +28,19 @@ proxies:
  - {name: 🎁 t.me/PFSub | 🇫🇮 FI 366 | ⬇️ 1MB/s, server: fi1.bot-hosting.net, port: 5097, type: tuic, password: YbMJmDUPvTPe, uuid: ea20a88d-c99a-4761-92a6-3ce64ca9326a, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
  - {name: 🎁 t.me/PFSub | 🇫🇮 FI 371 | ⬇️ 2MB/s, server: fi11.bot-hosting.net, port: 20175, type: tuic, password: ydpGT0jctyk6, uuid: 9eeace7c-ae06-4f21-8356-be8fe870cb5a, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
  - {name: 🎁 t.me/PFSub | 🇫🇮 FI 375 | ⬇️ 1MB/s, server: fi1.bot-hosting.net, port: 5097, type: tuic, password: G2rjh9btHX1F, uuid: 68b3ec0d-5cab-4f76-9f30-90a251ef7825, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
- 
- - {name: 🎁 t.me/PFSub | 🇺🇸 US 340 | ⬇️ 38KB/s, server: 113.192.61.19, port: 63979, type: hysteria2, password: 9772ecf2-6732-4bfb-a8b1-f48af577c76c, auth: 9772ecf2-6732-4bfb-a8b1-f48af577c76c, sni: www.bing.com, skip-cert-verify: true}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 434 | ⬇️ 629KB/s, server: 109.104.153.91, port: 37519, type: hysteria, auth_str: dongtaiwang.com, auth-str: dongtaiwang.com, up: 1000, down: 1000, ports: 10000-20000, protocol: udp, sni: apple.com, skip-cert-verify: true, alpn: [h3]}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 444 | ⬇️ 1MB/s, server: 109.104.153.91, port: 37519, type: hysteria, auth_str: dongtaiwang.com, auth-str: dongtaiwang.com, up: 1000, down: 1000, ports: 10000-20000, protocol: udp, sni: apple.com, skip-cert-verify: true, alpn: [h3]}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 448 | ⬇️ 46KB/s, server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 459 | ⬇️ 76KB/s, server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, password: Telegram-->@Ln2Ray, auth: Telegram-->@Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: true, obfs: salamander, obfs-password: Telegram-->@Ln2Ray}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 460 | ⬇️ 45KB/s, server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 461 | ⬇️ 46KB/s, server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 462 | ⬇️ 41KB/s, server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 464 | ⬇️ 44KB/s, server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 465 | ⬇️ 42KB/s, server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 467 | ⬇️ 46KB/s, server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 468 | ⬇️ 70KB/s, server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 472 | ⬇️ 44KB/s, server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 475 | ⬇️ 73KB/s, server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇫🇷 FR 476 | ⬇️ 4MB/s, server: 195.154.200.40, port: 15010, type: hysteria, auth_str: dongtaiwang.com, auth-str: dongtaiwang.com, up: 100, down: 100, protocol: none, sni: apple.com, skip-cert-verify: true, alpn: [h3]}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 477 | ⬇️ 43KB/s, server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 478 | ⬇️ 65KB/s, server: yapc-1.adamhayward.co.uk, port: 35000, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 479 | ⬇️ 44KB/s, server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 480 | ⬇️ 45KB/s, server: yapc-1.adamhayward.co.uk, port: 36600, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 483 | ⬇️ 45KB/s, server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 485 | ⬇️ 44KB/s, server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- - {name: 🎁 t.me/PFSub | 🇳🇱 NL 486 | ⬇️ 44KB/s, server: yapc-1.adamhayward.co.uk, port: 36300, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: true, obfs: salamander, obfs-password: Yet-Another-Public-Config-1}
- 
+ - {name: 🎁 t.me/PFSub | 🇩🇪 DE 103 | ⬇️ 3MB/s, server: de1.bot-hosting.net, port: 21474, type: tuic, password: qiGauJOnrueK, uuid: 2d93b131-f077-4f5c-b7ec-2bc778bd0fdb, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
+ - {name: 🎁 t.me/PFSub | 🇩🇪 DE 118 | ⬇️ 1MB/s, server: de3.bot-hosting.net, port: 20434, type: tuic, password: DabPJO1qTQg2, uuid: ebfaa5f8-0eea-49dc-b9af-06d961430ad5, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
+ - {name: 🎁 t.me/PFSub | 🇩🇪 DE 121 | ⬇️ 3MB/s, server: de3.bot-hosting.net, port: 20434, type: tuic, password: zpup8K6H0C7b, uuid: 15b98f96-2a3a-43a3-a4da-de643a343af1, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
+ - {name: 🎁 t.me/PFSub | 🇫🇮 FI 129 | ⬇️ 2MB/s, server: fi11.bot-hosting.net, port: 20175, type: tuic, password: 2TjNKGD2NX0Q, uuid: 149e5f74-1a3a-4d71-97b4-6f3ca9f5d259, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
+ - {name: 🎁 t.me/PFSub | 🇫🇮 FI 134 | ⬇️ 1MB/s, server: fi1.bot-hosting.net, port: 5097, type: tuic, password: G2rjh9btHX1F, uuid: 68b3ec0d-5cab-4f76-9f30-90a251ef7825, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
+ - {name: 🎁 t.me/PFSub | 🇫🇮 FI 136 | ⬇️ 4MB/s, server: fi5.bot-hosting.net, port: 20800, type: tuic, password: IJYZCFTZjT7l, uuid: 20abb51c-dd55-4211-b926-ce1b3d7a3eaa, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
+ - {name: 🎁 t.me/PFSub | 🇫🇮 FI 137 | ⬇️ 1MB/s, server: fi5.bot-hosting.net, port: 20800, type: tuic, password: fM2Ns1Hi7UiN, uuid: 95ccbe8c-ca30-4758-ae2e-317adeeb3143, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
+ - {name: 🎁 t.me/PFSub | 🇩🇪 DE 138 | ⬇️ 1MB/s, server: de1.bot-hosting.net, port: 21474, type: tuic, password: X7IYBBns34Sz, uuid: 3e28cabc-7970-41a7-a848-40bad883f9b3, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
+ - {name: 🎁 t.me/PFSub | 🇫🇮 FI 143 | ⬇️ 2MB/s, server: fi11.bot-hosting.net, port: 20175, type: tuic, password: ydpGT0jctyk6, uuid: 9eeace7c-ae06-4f21-8356-be8fe870cb5a, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
+ - {name: 🎁 t.me/PFSub | 🇫🇮 FI 145 | ⬇️ 1MB/s, server: fi1.bot-hosting.net, port: 5097, type: tuic, password: YbMJmDUPvTPe, uuid: ea20a88d-c99a-4761-92a6-3ce64ca9326a, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
+ - {name: 🎁 t.me/PFSub | 🇨🇦 CA 150 | ⬇️ 3MB/s, server: 40.233.77.57, port: 52434, type: tuic, password: a13a6ce4-cafa-4b26-a710-a03aa91c5418, uuid: a13a6ce4-cafa-4b26-a710-a03aa91c5418, sni: www.bing.com, skip-cert-verify: true, alpn: [h3], disable-sni: false, reduce-rtt: false, request-timeout: 0}
+ - {"name":"🇨🇦 加拿大","server":"40.233.77.57","port":"52434","type":"tuic","password":"a13a6ce4-cafa-4b26-a710-a03aa91c5418","uuid":"a13a6ce4-cafa-4b26-a710-a03aa91c5418","sni":"www.bing.com","skip-cert-verify":true,"alpn":["h3"],"disable-sni":false,"reduce-rtt":false,"request-timeout":"0","version":"5"}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  - {name: 🎁 t.me/PFSub | 🇩🇪 DE 103 | ⬇️ 3MB/s, server: de1.bot-hosting.net, port: 21474, type: tuic, password: qiGauJOnrueK, uuid: 2d93b131-f077-4f5c-b7ec-2bc778bd0fdb, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
-
-
-  - {name: 🎁 t.me/PFSub | 🇩🇪 DE 118 | ⬇️ 1MB/s, server: de3.bot-hosting.net, port: 20434, type: tuic, password: DabPJO1qTQg2, uuid: ebfaa5f8-0eea-49dc-b9af-06d961430ad5, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
-  - {name: 🎁 t.me/PFSub | 🇩🇪 DE 121 | ⬇️ 3MB/s, server: de3.bot-hosting.net, port: 20434, type: tuic, password: zpup8K6H0C7b, uuid: 15b98f96-2a3a-43a3-a4da-de643a343af1, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
-  - {name: 🎁 t.me/PFSub | 🇫🇮 FI 129 | ⬇️ 2MB/s, server: fi11.bot-hosting.net, port: 20175, type: tuic, password: 2TjNKGD2NX0Q, uuid: 149e5f74-1a3a-4d71-97b4-6f3ca9f5d259, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
-  - {name: 🎁 t.me/PFSub | 🇫🇮 FI 134 | ⬇️ 1MB/s, server: fi1.bot-hosting.net, port: 5097, type: tuic, password: G2rjh9btHX1F, uuid: 68b3ec0d-5cab-4f76-9f30-90a251ef7825, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
-  - {name: 🎁 t.me/PFSub | 🇫🇮 FI 136 | ⬇️ 4MB/s, server: fi5.bot-hosting.net, port: 20800, type: tuic, password: IJYZCFTZjT7l, uuid: 20abb51c-dd55-4211-b926-ce1b3d7a3eaa, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
-  - {name: 🎁 t.me/PFSub | 🇫🇮 FI 137 | ⬇️ 1MB/s, server: fi5.bot-hosting.net, port: 20800, type: tuic, password: fM2Ns1Hi7UiN, uuid: 95ccbe8c-ca30-4758-ae2e-317adeeb3143, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
-  - {name: 🎁 t.me/PFSub | 🇩🇪 DE 138 | ⬇️ 1MB/s, server: de1.bot-hosting.net, port: 21474, type: tuic, password: X7IYBBns34Sz, uuid: 3e28cabc-7970-41a7-a848-40bad883f9b3, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
-  - {name: 🎁 t.me/PFSub | 🇫🇮 FI 143 | ⬇️ 2MB/s, server: fi11.bot-hosting.net, port: 20175, type: tuic, password: ydpGT0jctyk6, uuid: 9eeace7c-ae06-4f21-8356-be8fe870cb5a, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
-
-  - {name: 🎁 t.me/PFSub | 🇫🇮 FI 145 | ⬇️ 1MB/s, server: fi1.bot-hosting.net, port: 5097, type: tuic, password: YbMJmDUPvTPe, uuid: ea20a88d-c99a-4761-92a6-3ce64ca9326a, sni: example.com, skip-cert-verify: true, disable-sni: false, reduce-rtt: false, request-timeout: 0, congestion-controller: bbr}
-
-  - {name: 🎁 t.me/PFSub | 🇨🇦 CA 150 | ⬇️ 3MB/s, server: 40.233.77.57, port: 52434, type: tuic, password: a13a6ce4-cafa-4b26-a710-a03aa91c5418, uuid: a13a6ce4-cafa-4b26-a710-a03aa91c5418, sni: www.bing.com, skip-cert-verify: true, alpn: [h3], disable-sni: false, reduce-rtt: false, request-timeout: 0}
-
-  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 171 | ⬇️ 11MB/s, server: 80e346c5-t46kg0-t7uinf-i8ie.hk1.hyhuawei.com, port: 443, type: hysteria2, password: 990e8f34-bd4f-11ef-bdb9-f23c91cfbbc9, auth: 990e8f34-bd4f-11ef-bdb9-f23c91cfbbc9, udp: true}
-  - {name: 🎁 t.me/PFSub | 🇳🇱 NL 175 | ⬇️ 629KB/s, server: 109.104.153.91, port: 37519, type: hysteria, auth_str: dongtaiwang.com, auth-str: dongtaiwang.com, up: 1000, down: 1000, ports: 10000-20000, protocol: udp, sni: apple.com, skip-cert-verify: true, alpn: [h3]}
-
-  - {name: 🎁 t.me/PFSub | 🇫🇷 FR 183 | ⬇️ 4MB/s, server: 195.154.200.40, port: 15010, type: hysteria, auth_str: dongtaiwang.com, auth-str: dongtaiwang.com, up: 100, down: 100, protocol: none, sni: apple.com, skip-cert-verify: true, alpn: [h3]}
-  - {name: 🎁 t.me/PFSub | 🇳🇱 NL 185 | ⬇️ 1MB/s, server: 109.104.153.91, port: 37519, type: hysteria, auth_str: dongtaiwang.com, auth-str: dongtaiwang.com, up: 1000, down: 1000, ports: 10000-20000, protocol: udp, sni: apple.com, skip-cert-verify: true, alpn: [h3]}
 
 
 
