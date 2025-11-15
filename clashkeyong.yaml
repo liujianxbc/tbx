@@ -15,11 +15,11 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 259 | ⬇️ 30KB/s, server: 47.76.175.67, port: 10862, type: http, username: 123, password: 123, tls: false}
+  
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 176 | ⬇️ 235KB/s, server: 154.26.192.123, port: 10988, type: http, username: fQ67Dpe5dU, password: gs4BXwT6SW, tls: false}
 
   - {name: 🎁 t.me/PFSub | 🇻🇳 VN 249 | ⬇️ 15KB/s, server: 103.186.154.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
   - {name: 🎁 t.me/PFSub | 🇭🇰 HK 137 | ⬇️ 99KB/s, server: 172.93.165.193, port: 36855, type: http, username: xZedCGy2A5, password: 76nlxJLO35, tls: false}
   - {name: 🎁 t.me/PFSub | 🇭🇰 HK 238 | ⬇️ 180KB/s, server: 43.252.229.243, port: 3000, type: http, username: wanghui1, password: wanghui1, tls: false}
-  - {name: 🎁 t.me/PFSub | 🇸🇬 SG 329 | ⬇️ 7KB/s, server: 164.152.167.94, port: 52302, type: http, username: 7waHp6NRjR, password: 1nLWx0UVnJ, tls: false}
+ 
   
