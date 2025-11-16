@@ -24,3 +24,13 @@ proxies:
   - {name: 🇺🇸 美国 | USA 4, server: usvless.yydzx.xyz, port: 17036, type: vless, uuid: e715f8e2-664c-4f6e-bb71-56d967cebb96, tls: true, flow: xtls-rprx-vision, servername: usvless.yydzx.xyz, client-fingerprint: chrome, network: tcp, udp: true} 
   - {name: 🇺🇸 美国 | USA 8, server: usvless.yydzx.xyz, port: 17342, type: vless, uuid: 5b7124d0-7092-466c-b9fa-c13be64f0cb0, tls: true, flow: xtls-rprx-vision, servername: usvless.yydzx.xyz, client-fingerprint: chrome, network: tcp, udp: true}  
   - {name: 🇻🇳 越南 | VNM, server: 103.186.154.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
+  - {name: DE_510be_0002, server: 195.254.165.152, port: 9107, type: vless, uuid: 774727ed-1e56-41bd-b55f-28549e21bcc8, tls: true, skip-cert-verify: false, client-fingerprint: firefox, servername: refersion.com, reality-opts: {public-key: Go_wk-NFoenM3xuCSQ84_0Lzh3Y6XrHzTz8XTbQl8lI, short-id: e8ef8df79e4a6343}, udp: true}
+  - {name: DE_510be_0004, server: 185.161.251.24, port: 29973, type: vless, uuid: a1493ccd-d1a4-4087-9041-1b3500224003, tls: true, skip-cert-verify: false, client-fingerprint: chrome, servername: yandex.ru, reality-opts: {public-key: QqNYhBZPJmHBGFF_4WsxNPcH8xve-4gma9--drcflHQ, short-id: cd6229f31e7180e6}, udp: true}
+  - {name: MD_510be_0013, server: 213.159.66.206, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu, udp: true}
+
+
+
+
+
+
+  
