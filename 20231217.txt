@@ -232,7 +232,7 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 
 
 
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+
 
 
 
@@ -240,15 +240,12 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 
 animTV,#genre#
 
-
 AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 
+
+
+
 CGTN,#genre#
-
-
-
-
-
 
 CGTN,https://0472.org/hls/cgtn.m3u8
 
@@ -286,6 +283,7 @@ PopC,http://bxtv.3a.ink/api.php?id=popc
 鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
 鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
 鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 
 
 海外,#genre#
@@ -318,47 +316,7 @@ stream1.freetv.fun,#genre#
 [BD]亚洲卫视,https://stream1.freetv.fun/6e1e13e2d13414493c75ce937812fbc3745d30f317b96a90403333d0ee042809.ctv
 
 
-[BD]精选动漫 *x,https://stream1.freetv.fun/746a07b682b1f74cb3f432e53a1e6f85e053fb6bafd4c7257d32ba1469078b69.m3u8
-[BD]经典卡通 *x,https://stream1.freetv.fun/c5343cb52a7e15e24d242540c67d2a39faa58067d9d1143ea197a8b9f1962804.m3u8
-[BD]经典电影 *x,https://stream1.freetv.fun/d680d32d63e35f728c4c5bd993c258eaaa12d4bbe3844373e10e050578fc3294.m3u8
-[BD]緯來日本 *wj,https://stream1.freetv.fun/74f023c5d7b58366a2871b091d5edb605c2e5e3b00b11be7129efbd8b7489349.ctv
-[HD]緯來日本[geo-blocked],http://f13h.mine.nu/sat/tv771
-[HD]纬来精彩[geo-blocked],https://stream1.freetv.fun/409fbf8e0ec33500b4d76956cca00af9fddacac6dd2f8822f464b089fb583a6b.m3u8
-[HD]纬来育乐[geo-blocked],http://f13h.mine.nu/sat/tv701
-[BD]纬来育乐[geo-blocked],https://stream1.freetv.fun/3abfaa9bfc01013d7459fb45d6a8d8dbdf1a788ee158c13c66e1d79d7e74fe96.ctv
-[HD]緯來體育[geo-blocked],http://f13h.mine.nu:1935/sat/tv721
-[BD]緯來體育 *wj,https://stream1.freetv.fun/1dc269abe7fafa65691f87c54cd29753587eaef4555a62be813986207f8ed461.ctv
-[HD]纬来体育[geo-blocked],http://f13h.mine.nu/sat/tv721
-[BD]美亞電影 *wj,https://stream1.freetv.fun/ce0ef22123dbbb5bfc05bcd98ee8f0f485c19b8e018cd6d2ab3590172ab5019b.ctv
-[BD]美亚电影,https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
-[BD]美亚电影,https://stream1.freetv.fun/12e25aeffeee85d6fe045a3f3edb6f0cf25782b51d9d2708ea5d9c0fc9bdf0db.ctv
-[BD]台視新聞,https://stream1.freetv.fun/d96ca80f2e6d7eb1a1737aaf17284caded271210e4432dfb4378a9ab6d8ef7b2.m3u8
-[BD]台視新聞,https://stream1.freetv.fun/ffa3a8fc52b4834c300b3587a667310b5eb8a46d000498709791be4bd1799514.m3u8
-[BD]台视新聞,https://stream1.freetv.fun/9e87c84976d8ad7ce1dac1ba154da29c85371dffd4a6c00a3dfde2bf1fed5735.m3u8
-[BD]台视综合,https://stream1.freetv.fun/ade964bb3257fe87dfd674a4d637fec20f26cf49bf91e7a4bb8459c711283d4d.ctv
-[BD]台视财经,https://stream1.freetv.fun/e2331640734e3da0f0ea18e4021f6d8ce8247924af42ed34d282c4aa1c0e1dbd.ctv
-[BD]华视,https://stream1.freetv.fun/eccf32739b25830eae943450b2e0cd8790e575a94f2edee661670cbceaa71f49.ctv
-[HD]华视[geo-blocked],http://f13h.mine.nu:1935/sat/tv111
-[BD]華視 *wj,https://stream1.freetv.fun/7bdbbed4566547f0a82c73ba52c53da972b355d4172e7390cb804140f9361021.ctv
-[HD]華視[geo-blocked],http://f13h.mine.nu/sat/tv111
-[HD]華視,https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1c3d1ee25740.ctv
-[BD]华视教育体育文化,https://stream1.freetv.fun/f7d8e1fcfd7eb512251b6da18e67187760ac602c400781e48ce3976e1dbd62c1.ctv
-[BD]华视新闻,https://stream1.freetv.fun/d5dff92c6ff7920d3aa0807d26bcd3f7b17f1b4f6b4df10b03f22d070398f3e9.ctv
-[BD]靖天戏剧[geo-blocked],https://stream1.freetv.fun/237631699febee5f20830e17d3687c1c9d5f1819aef2fb30e88c4fb319a4a872.ctv
-[BD]靖天映画[geo-blocked],https://stream1.freetv.fun/0864058ec04ec30d97650ab00f4f78c094c0c88f5c79f141c0292f525cf29ea1.ctv
-[BD]靖天映画[geo-blocked],https://stream1.freetv.fun/67431015b47135a50187114cbc0e435bdb987549926395838fa62a2a8ae29db2.ctv
-[BD]靖天映画[geo-blocked],https://stream1.freetv.fun/1cc9d2ae97a2f6791bfc3a810958fbe3f7104c52fe61d683a7ee93e31f73ec29.ctv
-[BD]靖天资讯[geo-blocked],https://stream1.freetv.fun/f399d5ca932e97fc64175572c8c5f5c14d36761d3bceda596b03403c568f204b.ctv
-[BD]靖天资讯[geo-blocked],https://stream1.freetv.fun/11a3943dbff1e2a6523c63f599089034d67a0465e4b140f40be2e1449b85f304.ctv
-[BD]靖天资讯[geo-blocked],https://stream1.freetv.fun/4b55b732dee5834d18f04bf48b096395288eedad596c18997cdf1cc1296eb21c.ctv
-[BD]非凡新聞 *wj,https://stream1.freetv.fun/5d4cce45fd26dade946070e39ffb9d8da31bbf7a1d6ae77e2a0c442258f74060.ctv
-[BD]龙华偶像,https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.m3u8
-[HD]龙华卡通,https://stream1.freetv.fun/d7c795509864a7e13bd4bccfcca8c0cf8684dd365cb3ce1ac76ad2f0b7b90e80.m3u8
-[BD]龙华戏剧,https://stream1.freetv.fun/7571dae9c85b7c954f2abfeac122340ecbdb0b7ab44c3eb785729cb648378dd4.m3u8
-[HD]龍華戲劇 *wj,https://stream1.freetv.fun/59ee8011663df931e2ac350efc5d7b19b30e83b8e8757d0f2c6b93a7c8845544.ctv
-[BD]龙华洋片,https://stream1.freetv.fun/f9e4358bb09913f4e5f1c09e2d6e50458024d9eacf3e2d274516bb85955a0a07.m3u8
-[BD]龙华经典,https://stream1.freetv.fun/c18a68c08db26e594330015d8ba2b4db254e993bdf7ce3e5dfb9c920038ed8a5.m3u8
-[BD]龙华电影,https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.m3u8
+
 
 
 轮播,#genre#
@@ -378,24 +336,7 @@ stream1.freetv.fun,#genre#
 
 🚀备用线路,#genre#
 
-CCTV1,http://123.112.208.22:4022/rtp/239.3.1.129:8008
-CCTV1,http://125.82.168.238:8888/rtp/235.254.198.51:1480
-CCTV2,http://123.112.208.22:4022/rtp/239.3.1.60:8084
-CCTV2,http://125.82.168.238:8888/rtp/235.254.198.52:1484
-CCTV3,http://123.112.208.22:4022/rtp/239.3.1.172:8001
-CCTV3,http://125.82.168.238:8888/rtp/235.254.198.53:1488
-CCTV4,http://123.112.208.22:4022/rtp/239.3.1.105:8092
-CCTV4,http://125.82.168.238:8888/rtp/235.254.198.183:7980
-CCTV7,http://123.112.208.22:4022/rtp/239.3.1.61:8104
-CCTV7,http://125.82.168.238:8888/rtp/235.254.198.56:1500
-CCTV9,http://123.112.208.22:4022/rtp/239.3.1.62:8112
-CCTV9,http://125.82.168.238:8888/rtp/235.254.198.58:1508
-CCTV10,http://123.112.208.22:4022/rtp/239.3.1.63:8116
-CCTV10,http://125.82.168.238:8888/rtp/235.254.198.59:1512
-CCTV13,http://123.112.208.22:4022/rtp/239.3.1.124:8128
-CCTV13,http://125.82.168.238:8888/rtp/235.254.198.9:1312
-CCTV15,http://www.weec.top:2222/rtp/239.3.1.153:8136
-CCTV16,http://ipv4.sunjianwu.fun:8800/rtp/239.49.0.109:8000
+
 CCTV-台球,http://doityoume.x3322.net:5100/rtp/239.69.1.98:10224
 
 
