@@ -27,78 +27,63 @@ joevess,#genre#
 镇江新闻综合频道, http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合频道, http://cm-wshls.homecdn.com/live/2aa50.m3u8
 宿州公共频道, http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+浙江钱江都市频道, http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江都市频道, http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江都市频道, http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经视, http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经视, http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经视, http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江教育科技频道, http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教育科技频道, http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教育科技频道, http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江电视台影视娱乐频道, http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江电视台影视娱乐频道, http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江电视台影视娱乐频道, http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江6频道民生休闲频道, http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江6频道民生休闲频道, http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻频道, http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江6频道民生休闲频道, http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻频道, http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江新闻频道, http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江电视台少儿频道, http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江电视台少儿频道, http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江电视台少儿频道, http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江国际频道, http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际频道, http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际频道, http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+萧山综合频道, http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+萧山生活频道, http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+余杭未来频道, http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+余杭新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+临平新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+象山电视台新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+余姚新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+苍南新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+余姚姚江文化频道, http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+文成新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+永嘉新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+绍兴文化影视频道, http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+绍兴电视台公共频道, http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+绍兴新闻综合频道, http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+新昌新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+新昌生活频道, http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+上虞新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+嵊州新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+上虞文化影视频道, http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+上虞新商都频道, http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+东阳影视生活频道, http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+武义新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+兰溪新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+龙游新闻综合频道, https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游生活娱乐频道, https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+开化新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+开化国家公园频道, http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+衢江新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+平湖新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+平湖民生休闲频道, http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 
 
 
-浙江钱江都市频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江都市频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江都市频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教育科技频道,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江教育科技频道,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江教育科技频道,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江电视台影视娱乐频道,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-浙江电视台影视娱乐频道,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-浙江电视台影视娱乐频道,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-浙江6频道民生休闲频道,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江6频道民生休闲频道,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江6频道民生休闲频道,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江新闻频道,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江新闻频道,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江新闻频道,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江电视台少儿频道,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江电视台少儿频道,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江电视台少儿频道,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-好易购电视购物,https://zhfivel02.cztv.com/channel11/1080p.m3u8?auth_key=1719039715-a020a8d25bbdb18738b7e0c8d8c99598-0-5193f931d7270bf959eaebbffe2bdf52
-好易购电视购物,https://zhfivel02.cztv.com/channel11/1080p.m3u8?auth_key=1719039715-a020a8d25bbdb18738b7e0c8d8c99598-0-5193f931d7270bf959eaebbffe2bdf52
-好易购电视购物,https://zhfivel02.cztv.com/channel11/1080p.m3u8?auth_key=1719039715-a020a8d25bbdb18738b7e0c8d8c99598-0-5193f931d7270bf959eaebbffe2bdf52
-浙江国际频道,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际频道,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际频道,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-杭州综合频道,https://live.hoolo.tv/hztv1/playlist.m3u8?auth_key=1719046948-0-0-92b2f25ced45642f30e1c015597826f8
-杭州西湖明珠频道,https://live.hoolo.tv/hztv2/playlist.m3u8?auth_key=1719041277-0-0-7df34df7ff3eb52e7386178bb615de33
-杭州生活频道,https://live.hoolo.tv/hztv3/playlist.m3u8?auth_key=1719046962-0-0-1734d062cd040d9e4e25829d227a89f5
-杭州影视频道,https://live3.hoolo.tv/hztv4/playlist.m3u8?auth_key=1719046970-0-0-aa29f0d3edb6507618a6795b695317c0
-杭州5套青少体育频道,https://live3.hoolo.tv/hztv5/playlist.m3u8?auth_key=1719046977-0-0-3372ace45601d270ab1c10a1d65a1b67
-杭州六频道导视频道,https://live3.hoolo.tv/hztv6/playlist.m3u8?auth_key=1719046861-0-0-1a7f650f166d29aa4b5e131f22ea0436
-萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-余杭新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
-余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-临平新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
-宁波电视台1套,http://liveplay.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1719043429-0-0-08289745f55d34c3fed8b6cb7bb09293
-宁波电视台2套,http://liveplay.nbtv.cn/live/nbtv2_md.m3u8?auth_key=1719042382-0-0-137a4dc0c7de272a89fd98d377b98cdd
-宁波电视台3套,http://liveplay.nbtv.cn/live/nbtv3_md.m3u8?auth_key=1719041111-0-0-9f3338d7ea5ae7a6c9ed82270df91d3d
-宁波4套影视频道,http://liveplay.nbtv.cn/live/nbtv4_md.m3u8?auth_key=1719042547-0-0-baf88fdbc7c1347f565643ab9b80d0ac
-象山电视台新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-余姚新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-余姚姚江文化频道,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-文成新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-苍南新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
-永嘉新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
-绍兴文化影视频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-绍兴电视台公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-绍兴新闻综合频道,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-新昌新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-新昌生活频道,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-上虞新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-上虞文化影视频道,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-上虞新商都频道,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-嵊州新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-东阳影视生活频道,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-武义新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-兰溪新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-龙游新闻综合频道,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-龙游生活娱乐频道,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-开化新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
-开化国家公园频道,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-衢江新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
-德清新闻综合频道,http://live.yingxi.tv/channel1/playlist.m3u8?_upt=8efc49e71719040171
-德清文化生活频道,http://live.yingxi.tv/channel2/playlist.m3u8?_upt=1b5ba3321719040215
-平湖新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
-平湖民生休闲频道,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 遂昌新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 松阳新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
