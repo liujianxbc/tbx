@@ -6,98 +6,30 @@ BurningC4,#genre#
 
 joevess,#genre#
 
-CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
-CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
-CETV1中国教育电视台一套,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
-CETV4空中课堂频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel38/1300.m3u8
-广东体育,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东体育,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-广东电视台珠江频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/1300.m3u8
-南方卫视TVS2,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel58/1300.m3u8
-TVS5广东少儿频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel63/1300.m3u8
-广州电视台综合频道,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
-广州电视台影视频道,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
-广州电视台新闻频道,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
-广州竞赛频道,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
-广州电视台法治频道,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
-广州南国都市频道,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-深圳电视剧频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel47/1300.m3u8
-深圳财经生活频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel48/1300.m3u8
-深圳娱乐频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel49/1300.m3u8
-深圳少儿频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel51/1300.m3u8
-深圳公共频道,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel52/1300.m3u8
-梅州一套综合频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
-梅州二套公共频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
-河源综合频道,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源公共频道,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-江门综合频道,http://tidelive.jmtv.cn/lsdream/4x3T0dO/993/o734500.m3u8
-江门公共频道,http://tidelive.jmtv.cn/lsdream/qzohscw/993/6lq5o0o.m3u8
-湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
-湖南都市频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWJlOTliNDNmZGQ4ZGM0ZGYzN2Q3ODk0YmFmODlmNzkwJmVzPTE3MTkwNTI4MjAmdXVpZD1iMTA4NDY1OTNkZDhlZDgzZDZhMmUzZmJkZWIzNzk1YS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/HNDSMPP360.m3u8
-湖南娱乐频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTVkYTQxNWM4NzhmMzYxZmI3OThmM2M4M2I3ZjMwMjU2JmVzPTE3MTkwNjY2MzkmdXVpZD0yNDE3NzUxNDI5MTE3NzJjNWFkNmUzNjNiOTBjNWEwNC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNYLMPP360.m3u8
-湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
-湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
-湖南电视剧频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTkxY2E5OWRiZDBhZWMyMGZlY2NiOTk1OTIxYjY4OTk1JmVzPTE3MTkwNTE2MDEmdXVpZD0zYTNhYzVhNTUzZDdjOTA5ZTI1NjVhOTBiNTc3ODM5My02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/HNDSJMPP360.m3u8
-金鹰纪实频道,https://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWJiZmIxZDhlNWY0OTk1ZDM4MjVkOWYyYzNhMmU5ODliJmVzPTE3MTkwNTY2NDAmdXVpZD01OGYyZjQ0OWIwMjU2MTFmOGNhMzI2M2M1Mjg3N2Q3ZS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1od19waG9uZQ,,/JYJSMPP360.m3u8
-金鹰卡通,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTJjYjljZmY2Yjc5YTY2NTNhNmQ5YWM4NzE1YjE1MDJlJmVzPTE3MTkwNTQ5NTImdXVpZD0yZTk4YjNhNGJmY2U1Y2I3NzRhYmU5N2U4M2Q5NTlkNy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8
-湖南国际频道,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTIzOWJkOWMyZGRjMzQyZWZlOTc4MGI3YzAyNzAwZmExJmVzPTE3MTkwNTk5OTAmdXVpZD1hZGE2Y2UzZjVhMWQ3ZWM4MzYyNzlmOGVmY2ZlOWUwOS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD1xcV9waG9uZV9saXZl/HNGJMPP360.m3u8
-先锋乒羽频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTY2MmM4M2RhMzU1ODI1NmY1ZDcwYmJlZmU5MWNhOGIxJmVzPTE3MTkwNDU1NDYmdXVpZD00NzVlNzFkN2Q5YzUyM2RiMzVmNTgxNDdkNWQzZmU3Mi02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/XFPYMPP360.m3u8
-湖南卫视快乐垂钓频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTI2MjQ2MjY5OTJmMWU5OTM3YWRlODhiNjc0ODcxNWJmJmVzPTE3MTkwNDY2NzYmdXVpZD00NGQ1ZmQ1NzBlOGU1OGIxYjE3MzIxYjBjNzcxODVlYS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/KLCDMPP360.m3u8
-湖南快乐购,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWEzMGY3OWU1MmNmNjgyYjhkMmExYjg2MWY2MWZkZWNlJmVzPTE3MTkwNjUxODMmdXVpZD0xYThlZjRkZDM2MDkwNmU3ZDBhNGQ3OTE0ZjUzNzliMC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/KLGMPP360.m3u8
-湖南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/1300.m3u8
-茶频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWNiMThlMmIyYzZjODJkNmRhNjQ2ZDFkZTAyNWMyODI0JmVzPTE3MTkwNDAyNTgmdXVpZD00ZjI3YWE2OTc0ODc1NzI0Y2IwNTdkM2YyMTU1MGQ4OS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/CPDMPP360.m3u8
-长沙新闻频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTIzYTRiNDhmYWZjMTU3OWZkMjIzNDI4NTQ0NWM0OTE3JmVzPTE3MTkwMzk0MzgmdXVpZD1mZTZkYTYwZWZmY2Y5MjJjNDI3MjAxYTM0MDQzZTcwMy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/CSXWMPP360.m3u8
-长沙政法频道,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPWRjZTlkMjkzMGYzNTkwMGVmMTU1NDQxMWI2OGQxYmQxJmVzPTE3MTkwNDIwNTAmdXVpZD0wNzRhYTQzZjQ0NmE5OTY0MDlhYTcyMjExNTNiZDAzOC02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/CSZFMPP360.m3u8
-长沙女性频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTBiNWQyNTk4MTM4YWFmZjNlZmQzOGQ0YWIyYzhiNWFkJmVzPTE3MTkwNDc4MTQmdXVpZD01NzYxNWY0MzM0ZDEyMjljMWFlMDg4ODM2NTc0OGEwNy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/CSNXMPP360.m3u8
-湘潭新闻综合频道,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-湘潭公共都市频道,http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-邵阳新闻综合频道,http://live2.sytv.net.cn/xwzh/playlist.m3u8?sign=cd30dadc1b3e3b8ec9d7ee68a72d8556&t=1719039991
-邵阳公共频道,http://live2.sytv.net.cn/ggpd/playlist.m3u8?sign=4f8d462a6256e81b8c59c34016db6626&t=1719039998
-江宁电视台综合频道,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
-常州都市频道,https://livekcz.cztv.tv/kcz/cztv2.m3u8?auth_key=1719046095-0-0-61b64b635cd0370d42a764d85c7c3e1c
-连云港公共频道,http://live.lyg1.com/ggpd/sd/live.m3u8
-赣榆新闻综合频道,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
-沛县新闻综合频道,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
-睢宁综合频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
-睢宁综合频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
-睢宁生活教育频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8
-睢宁三农频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
-睢宁资讯频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8
-南通电视台一套,https://nt-hls.ntjoy.com/live/4f1.m3u8?t=1719039008&k=7475be300490d07a27abb5eb02d75203
-南通二套社教频道,https://nt-hls.ntjoy.com/live/4f3.m3u8?t=1719039008&k=cd9495aaff509c129fb448f1424bb0da
-南通三套公共频道,https://nt-hls.ntjoy.com/live/4f5.m3u8?t=1719039008&k=e9388cee5c1aea8441576766017ec14b
-如东一套新闻综合频道,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
-海安新闻综合频道,http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
-泗洪新闻综合频道,http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8
-沭阳综合频道,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
-泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
-泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
-涟水电视台综合频道,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
-泰州一套新闻综合频道,http://stream1.mytaizhou.net/xwzh/playlist.m3u8?_upt=637bdc321719106620
-泰州三套影视娱乐频道,http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16d36cd11719111128
-姜堰新闻综合频道,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
-扬州新闻频道,http://cm-wshls.homecdn.com/live/8bb.m3u8
-扬州城市频道,http://cm-wshls.homecdn.com/live/8bd.m3u8
-扬州生活频道,http://cm-wshls.homecdn.com/live/8bf.m3u8
-扬州邗江频道,http://cm-wshls.homecdn.com/live/8c3.m3u8
-高邮一套新闻综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
-镇江新闻综合频道,http://cm-wshls.homecdn.com/live/2aa50.m3u8
-镇江新闻综合频道,http://cm-wshls.homecdn.com/live/2aa50.m3u8
-镇江二套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江二套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-安徽经济生活频道,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-安徽综艺体育频道,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-芜湖新闻综合频道,https://live3.wuhunews.cn/news/playlist.m3u8?_upt=de83c7451719046534
-芜湖生活频道,https://live3.wuhunews.cn/channel2/playlist.m3u8?_upt=04c322b41719046541
-芜湖公共频道,https://live3.wuhunews.cn/channel3/playlist.m3u8?_upt=74bf4bf01719046564
-岳西综合频道,http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
-宿州新闻综合频道,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-宿州公共频道,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-宿州科教频道,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-滁州新闻综合频道,http://live.cztv.cc:85/live/xwpd.m3u8
-滁州科教频道,http://live.cztv.cc:85/live/sjpd.m3u8
-滁州公共频道,http://live.cztv.cc:85/live/ggpd.m3u8
+广州电视台综合频道, https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
+广州电视台新闻频道, https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
+广州电视台法治频道, https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
+广州南国都市频道, https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+湘潭新闻综合频道, http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+赣榆新闻综合频道, http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
+沛县新闻综合频道, http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
+睢宁综合频道, http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
+睢宁综合频道, http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
+睢宁三农频道, http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
+如东一套新闻综合频道, http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
+涟水电视台综合频道, http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+沭阳综合频道, http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+泗阳综合频道, http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+泗阳资讯频道, http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+高邮一套新闻综合频道, http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+镇江二套社会民生频道, http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+镇江二套社会民生频道, http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+镇江新闻综合频道, http://cm-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合频道, http://cm-wshls.homecdn.com/live/2aa50.m3u8
+宿州公共频道, http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+
+
+
 浙江钱江都市频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
