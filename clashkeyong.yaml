@@ -40,4 +40,13 @@ proxies:
     type: http
     username: mrwdfNTD8M79LCukCieldrqZWqs=
     sni: twmoon1-cdn-route.couldflare-cdn.com
-  
+  - name: "\U0001F1F0\U0001F1F7KR²_1|4.9MB/s|11%|GPT|YT|TK|X|KeepSucced"
+    password: test.+
+    port: 30446
+    server: testkr3.ssv.vc
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: test
+    sni: testkr3.ssv.vc  
