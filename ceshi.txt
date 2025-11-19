@@ -202,63 +202,14 @@ joevess,#genre#
 张家口一套新闻综合频道, http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 张家口二套公共频道, http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8
 
-广西都市频道,https://mobilelive.gxtv.cn/live/nn_live1006/playlist.m3u8
-广西国际频道,https://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
-广西影视频道,https://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8
-广西综艺旅游频道,https://mobilelive.gxtv.cn/live/nn_live1005/playlist.m3u8
-广西乐思购频道,https://mobilelive.gxtv.cn/live/nn_live1002/playlist.m3u8
-广西移动频道,https://mobilelive.gxtv.cn/live/gxyd/playlist.m3u8
-广西新闻频道,https://mobilelive.gxtv.cn/live/nn_live1007/playlist.m3u8
-南宁新闻综合频道,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁新闻综合频道,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁都市生活频道,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁都市生活频道,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁影视娱乐频道,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-南宁公共频道,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
-南宁公共频道,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
-隆安电视台,https://hls.nntv.cn/nnlive/LATV_24.m3u8
-宾阳电视台,https://live.gxrb.com.cn/gx/binyang/index.m3u8
-贺州电视台综合频道,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-融水电视台,https://live.gxrb.com.cn/gx/rongshui/index.m3u8
-田东电视台,https://live.gxrb.com.cn/gx/tiandong/index.m3u8
-凌云电视台,https://live.gxrb.com.cn/gx/lingyun/index.m3u8
-靖西电视台,https://live.gxrb.com.cn/gx/jingxi/index.m3u8
-梧州新闻综合频道,http://live.wzrtv.cn:80/xwzh1/sd/live.m3u8
-梧州公共频道,http://live.wzrtv.cn:80/ggpd1/sd/live.m3u8
-梧州教育生活频道,http://live.wzrtv.cn:80/jysh1/sd/live.m3u8
-巴马电视台,https://live.gxrb.com.cn/gx/bama/index.m3u8
-都安电视台,https://live.gxrb.com.cn/gx/duan/index.m3u8
-崇左综合频道,https://live.gxrb.com.cn/gx/chongzuo/index.m3u8
-崇左综合频道,https://live.gxrb.com.cn/gx/chongzuo/index.m3u8
-龙州电视台,https://live.gxrb.com.cn/gx/longzhou/index.m3u8
-北海新闻综合频道,https://live.gxrb.com.cn/gx/beihai/index.m3u8
-山西经济与科技频道,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/q814500.m3u8
-山西影视频道,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/98iM5x0.m3u8
-山西社会与法治频道,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/e3dp5y0.m3u8
-山西文体生活频道,https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/800/i59Y500.m3u8
-优购物电视购物,https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3
-黄河电视台,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/y3tl5e0.m3u8
-大同1套新闻综合频道,https://live.dtradio.com.cn/xwzh/playlist.m3u8?_upt=82dbe6391719053587
-大同2套公共频道,https://live.dtradio.com.cn/ggpd/playlist.m3u8?_upt=c26269821719053594
-大同3套煤都生活频道,https://live.dtradio.com.cn/mdsh/playlist.m3u8?_upt=04da4b671719053600
-运城一套新闻综合频道,http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8
-运城二套公共频道,http://live.0359tv.com/lsdream/t667aTY/live.m3u8
-运城三套科教频道,http://live.0359tv.com/lsdream/p5eq48m/live.m3u8
-陕西一套新闻资讯频道,http://stream.snrtv.com/sxbc-1-jnxDV4.m3u8
-陕西二套都市青春频道,http://stream.snrtv.com/sxbc-2-jswyM6.m3u8
-陕西三套生活频道,http://stream.snrtv.com/sxbc-3-txJKL6.m3u8
-陕西五套公共频道,http://stream.snrtv.com/sxbc-5-psuvFI.m3u8
-陕西七套体育休闲频道,http://stream.snrtv.com/sxbc-7-hjvy59.m3u8
-陕西农林卫视,http://stream.snrtv.com/sxbc-nl-exzIP9.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-uAGMRT.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-uAGMRT.m3u8
-延安一套新闻综合频道,http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
-延安二套公共频道,http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
-宁夏公共频道,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
-宁夏经济频道,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
-宁夏少儿频道,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
-宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
-宁夏电视台影视频道,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+南宁新闻综合频道, http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+
+南宁都市生活频道, http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+
+南宁影视娱乐频道, http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+
+南宁公共频道, http://hls.nntv.cn/nnlive/GGPD_24.m3u8
+
 海南电视台经济频道,https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=4b284ca01719048606
 海南公共频道,https://live2.hnntv.cn/srs/tv/ggpd.m3u8?_upt=0d95fcef1719048644
 海南少儿频道,https://live2.hnntv.cn/srs/tv/sepd.m3u8?_upt=c26797e71719049964
