@@ -1,22 +1,2 @@
 待测试,#genre#
-俄罗斯,http://185.186.142.16/streams.rs.m3u8
-日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-nkkworld japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-日本,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-日本,https://stream3.shopch.jp/HLS/master.m3u8
-日本,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-日本,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-日本,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-泰国,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
-美国,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
-美国,http://pull.dayuntongzhou.com/live/tztv.m3u8
-美国,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=156401&extension=ts
-越南,http://tv.ctvcamau.vn/live/tv/tv.m3u8
-
-越南,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-越南,https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-越南,http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-越南,http://210.210.155.35/dr9445/h/h16/02.m3u8
-越南,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
-越南,http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
