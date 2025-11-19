@@ -209,46 +209,9 @@ joevess,#genre#
 南宁影视娱乐频道, http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 
 南宁公共频道, http://hls.nntv.cn/nnlive/GGPD_24.m3u8
+西宁新闻综合频道, https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁生活服务频道, https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 
-海南电视台经济频道,https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=4b284ca01719048606
-海南公共频道,https://live2.hnntv.cn/srs/tv/ggpd.m3u8?_upt=0d95fcef1719048644
-海南少儿频道,https://live2.hnntv.cn/srs/tv/sepd.m3u8?_upt=c26797e71719049964
-海南文旅频道,https://live2.hnntv.cn/srs/tv/wlpd.m3u8?_upt=602e0c861719048639
-海口二套生活娱乐频道,http://183.255.46.4:16080/live/tv2502.m3u8
-UTV1乌鲁木齐新闻综合频道,http://pili-live-hls.xjwlmqapp2019.sobeylive.com/xjwlmqapp2019/xwzh.m3u8
-鄂托克旗电视台,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
-鄂托克旗电视台,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
-赤峰新闻综合频道,http://stream.cfrtv.cn/cfzh/sd/live.m3u8?_upt=7b4c46ee1719054747
-赤峰影视娱乐频道,http://stream.cfrtv.cn/cfys/sd/live.m3u8?_upt=191627381719054755
-赤峰经济服务频道,http://stream.cfrtv.cn/cfjj/sd/live.m3u8?_upt=99bb84fe1719054761
-乌兰察布生活频道,http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
-贵州2频道公共频道,http://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=4437fc3a1b93335c87b90080fa50d47a&txTime=66769396
-贵州2频道公共频道,http://9bwaz8y2.gzstv.com/live/CH02_lo.m3u8?txSecret=4437fc3a1b93335c87b90080fa50d47a&txTime=66769396
-贵州3频道影视文艺频道,http://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=c9dde26ec1f566af8c1b1b7d2ea32367&txTime=66769673
-贵州3频道影视文艺频道,http://9bwaz8y2.gzstv.com/live/CH03_lo.m3u8?txSecret=c9dde26ec1f566af8c1b1b7d2ea32367&txTime=66769673
-贵州4频道大众生活频道,http://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=a3608b91dd7b923de5c410b1bd6f42c0&txTime=6676967A
-贵州4频道大众生活频道,http://9bwaz8y2.gzstv.com/live/CH04_lo.m3u8?txSecret=a3608b91dd7b923de5c410b1bd6f42c0&txTime=6676967A
-贵州5频道,http://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=c5f291cc159908812d69286c636a45c2&txTime=66769682
-贵州5频道,http://9bwaz8y2.gzstv.com/live/CH05_lo.m3u8?txSecret=c5f291cc159908812d69286c636a45c2&txTime=66769682
-贵州6频道科教健康频道,http://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=42e66b35a9172b29b0a64970357ce66d&txTime=6676953A
-贵州6频道科教健康频道,http://9bwaz8y2.gzstv.com/live/CH06_lo.m3u8?txSecret=42e66b35a9172b29b0a64970357ce66d&txTime=6676953A
-贵州移动电视频道,https://9bwaz8y2.gzstv.com/live/CH13_lo.m3u8?txSecret=4d7a635dd9f56440f600f5e29e7ac891&txTime=66769696
-遵义新闻综合频道,http://pluslive.zunyifb.com/xwpd/playlist.m3u8?_upt=c4dde1371719055056
-遵义都市频道,http://pluslive.zunyifb.com/dspd/playlist.m3u8?_upt=383250701719055062
-遵义公共频道,http://pluslive.zunyifb.com/ggpd/playlist.m3u8?_upt=39ffc8181719055068
-安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=be54a04d1719055140
-青海经视频道,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=0d037af01719040871
-青海都市频道,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=174520081719040868
-西宁新闻综合频道,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-西宁生活服务频道,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-西藏影视文化频道,https://tv.vtibet.cn/live/gHxCmvaVjK68XL.m3u8?secret=3efbfe1dbcf9071936a3ef806a987396&time=66769769
-凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 CGTN英语,https://live-wuxi.cgtn.com/live/wx_cgtn_1000k_internalnormal.m3u8
 CGTN英语,https://live-wuxi.cgtn.com/live/wx_cgtn_1000k_internalnormal.m3u8
 CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
