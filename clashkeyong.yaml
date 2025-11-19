@@ -33,4 +33,14 @@ proxies:
   - {name: 🎁 t.me/PFSub | 🇻🇳 VN 129 | ⬇️ 15KB/s, server: 103.186.155.10, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
   - {name: 🎁 t.me/PFSub | 🇭🇰 HK 186 | ⬇️ 57KB/s, server: cf.0sm.com, port: 443, type: vless, uuid: e9c198e7-ccec-49a8-b558-8688aa8ec515, tls: true, servername: guang-page.asong.eu.org, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: guang-page.asong.eu.org}}}
   - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.26.173, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
+
+  - name: "\U0001F1F9\U0001F1FCTW²_1|0.9MB/s|GPT⁺|TK|NF|X|KeepHistory"
+    password: exaxgqkKkd0TAMrCxeonWg==
+    port: 1443
+    server: twmoon1-cdn-route.couldflare-cdn.com
+    skip-cert-verify: false
+    tls: true
+    type: http
+    username: mrwdfNTD8M79LCukCieldrqZWqs=
+    sni: twmoon1-cdn-route.couldflare-cdn.com
   
