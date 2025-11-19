@@ -82,72 +82,28 @@ joevess,#genre#
 平湖新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平湖民生休闲频道, http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 
+青田电视台, http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+遂昌新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+松阳新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+庆元新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+缙云新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+
+龙泉新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+云和新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+普陀电视台, http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+嵊泗新闻综合频道, http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+菏泽一套新闻综合频道, http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+烟台公共频道, http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
+菏泽二套经济生活频道, http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+烟台影视频道, http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+哈尔滨生活频道, http://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨娱乐频道, http://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨新闻综合频道, http://stream.hrbtv.net/xwzh/sd/live.m3u8
+上海东方购物频道, http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+上海东方购物频道, http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+哈尔滨影视频道, http://stream.hrbtv.net/yspd/sd/live.m3u8
 
 
-青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-遂昌新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-松阳新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-庆元新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-缙云新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-龙泉新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-云和新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-嵊泗新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
-北京新闻频道BTV9,https://live.funhillrm.com/5/sd/live.m3u8
-石景山电视台,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-房山电视台,http://live.funhillrm.com/2/sd/live.m3u8
-房山电视台,http://live.funhillrm.com/2/sd/live.m3u8
-锦州一套新闻综合频道,http://stream.jzgbdst.cn/1/sd/live.m3u8
-锦州二套教育频道,http://stream.jzgbdst.cn/2/sd/live.m3u8
-江西电视台都市频道jxtv2,http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_jxtv2.m3u8
-江西影视旅游频道jxtv4,http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_jxtv4.m3u8
-江西公共频道jxtv5,http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_jxtv5.m3u8
-江西少儿频道jxtv6,http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_jxtv6.m3u8
-江西新闻频道jxtv7,http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_jxtv7.m3u8
-风尚购物,http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_fsgw.m3u8
-江西移动电视频道,http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_jxtv8.m3u8
-江西China陶瓷频道,http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_taoci.m3u8
-淄博生活频道,https://live.cbbn.net/zbsh/playlist.m3u8?_upt=5623eb561719048501
-淄博都市频道,https://live2.cbbn.net/zbdspd/playlist.m3u8?_upt=eb2026be1719048511
-潍坊二套经济生活频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv2.m3u8
-潍坊三套公共频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv3.m3u8
-潍坊四套科教频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv4.m3u8
-青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
-青州电视台生活频道,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
-青州电视台文化旅游频道,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
-济宁新闻综合频道,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
-济宁图文频道,http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8
-济宁公共频道,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
-济宁教育频道,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
-菏泽一套新闻综合频道,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
-菏泽二套经济生活频道,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
-菏泽三套影视频道,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-烟台公共频道,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
-烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-威海一套新闻综合频道,http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
-威海二套公共频道,http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
-威海三套海洋频道,http://l1.weihai.tv:8081/hls/969O76hb21.m3u8
-临沂新闻综合频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
-临沂公共频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
-临沂农科频道,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
-枣庄公共频道,http://stream.zztvzd.com/3/sd/live.m3u8
-哈尔滨新闻综合频道,http://stream.hrbtv.net/xwzh/sd/live.m3u8
-哈尔滨生活频道,http://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨娱乐频道,http://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨影视频道,http://stream.hrbtv.net/yspd/sd/live.m3u8
-上海东方购物频道,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
-上海东方购物频道,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
-上海金山电视台,http://livejs1.newsjs.net/jspd/playlist.m3u8
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-云南都市频道yntv2,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
-云南娱乐频道yntv3,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
-云南公共频道yntv6,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
-云南澜湄国际频道,http://tvlive.ynradio.com/live/yunnanguoji/chunks.m3u8
-云南少儿频道yntv7,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
-昆明教育电视台,http://pili-live-hdl-kmjy.kmetv.com/kmjy1/kmjy1.m3u8
-红河一套新闻频道,http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-红河经济生活频道,http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-红河县电视台,http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel3/playlist.m3u8
 个旧电视台,http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel6/playlist.m3u8
 屏边电视台,http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel5/playlist.m3u8
 德宏公共频道,https://ali-play.lezhibo.com/lezhibo/e6a8b2ecf53b4ea4b0aef1e91d20cd51.m3u8
