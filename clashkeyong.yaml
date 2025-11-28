@@ -50,3 +50,33 @@ proxies:
     udp: true
     username: test
     sni: testkr3.ssv.vc  
+  - name: YouTube顺丰资源 美国271
+    type: vless
+    server: 108.162.198.11
+    port: 2096
+    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
+    tls: true
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: kuangbao.xiejiang.dpdns.org
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2560
+    servername: kuangbao.xiejiang.dpdns.org
+  - type: vless
+    name: gaa 加州 洛杉矶 cc
+    server: 198.46.146.14
+    port: 54441
+    uuid: 8f4c811e-3af2-4753-abec-8c46fb7a78bb
+    tls: true
+    flow: xtls-rprx-vision
+    client-fingerprint: chrome
+    skip-cert-verify: false
+    reality-opts:
+      public-key: CT6kMvGTGqHLdBAYyTS5y7Aq7O5aUEsc05ZPLp0Edjw
+      short-id: 1a2fb818
+    network: tcp
+    encryption: none
+    servername: www.lovelive-anime.jp	
+	
