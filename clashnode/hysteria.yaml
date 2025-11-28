@@ -21,13 +21,7 @@ proxies:
   - {name: 🎁 t.me/PFSub | 🇫🇷 FR 476 | ⬇️ 4MB/s, server: 195.154.200.40, port: 15010, type: hysteria, auth_str: dongtaiwang.com, auth-str: dongtaiwang.com, up: 100, down: 100, protocol: none, sni: apple.com, skip-cert-verify: true, alpn: [h3]}
 
 
-  - type: hysteria2
-    name: 🇫🇷_FR_法国-1
-    server: 163.172.21.105
-    port: 5355
-    password: dongtaiwang.com
-    skip-cert-verify: true
-    sni: www.bing.com
+
   - type: hysteria2
     name: 🇺🇸_US_美国_3-5-1
     server: 51.158.218.2
