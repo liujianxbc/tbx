@@ -88,6 +88,29 @@ CCTV14,http://60.16.0.216:5757/hls/15/index.m3u8
 
 CCTV7,http://8.138.7.223/tv/cctv7.m3u8
 
+CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+CCTV8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+
+
+
+CCTV1,http://sh.lnott.top:880/dx01.m3u8$lnott
+CCTV2,http://sh.lnott.top:880/dx02.m3u8$lnott
+CCTV3,http://sh.lnott.top:880/dx03.m3u8$lnott
+CCTV4,http://sh.lnott.top:880/dx04.m3u8$lnott
+CCTV5,http://sh.lnott.top:880/dx05.m3u8$lnott
+CCTV6,http://sh.lnott.top:880/dx06.m3u8$lnott
+CCTV7,http://sh.lnott.top:880/dx07.m3u8$lnott
+CCTV8,http://sh.lnott.top:880/dx08.m3u8$lnott
+CCTV9,http://sh.lnott.top:880/dx09.m3u8$lnott
+
+
+
+
 CCTV1,http://124.165.251.82:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://124.165.251.82:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://124.165.251.82:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
