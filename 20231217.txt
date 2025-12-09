@@ -115,7 +115,16 @@ CCTV6,http://sh.lnott.top:880/dx06.m3u8$lnott
 CCTV7,http://sh.lnott.top:880/dx07.m3u8$lnott
 CCTV8,http://sh.lnott.top:880/dx08.m3u8$lnott
 CCTV9,http://sh.lnott.top:880/dx09.m3u8$lnott
+CCTV10,http://sh.lnott.top:880/dx10.m3u8$300k卡
+CCTV11,http://sh.lnott.top:880/dx11.m3u8$300k卡
+CCTV12,http://sh.lnott.top:880/dx12.m3u8$300k卡
+CCTV13,http://sh.lnott.top:880/dx13.m3u8
+CCTV14,http://sh.lnott.top:880/dx14.m3u8
+CCTV15,http://sh.lnott.top:880/dx15.m3u8
+CCTV5+,http://sh.lnott.top:880/dx16.m3u8
+CCTV17,http://sh.lnott.top:880/dx17.m3u8
 
+CGTN,http://sh.lnott.top:880/dx18.m3u8
 
 
 
@@ -157,6 +166,53 @@ CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.
 
 
 🇨🇳卫视频道可用,#genre#
+
+辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
+辽宁都市频道,http://sh.lnott.top:880/dx20.m3u8
+辽宁影视剧,http://sh.lnott.top:880/dx21.m3u8
+辽宁体育休闲,http://sh.lnott.top:880/dx22.m3u8
+辽宁生活,http://sh.lnott.top:880/dx23.m3u8
+辽宁教育青少,http://sh.lnott.top:880/dx24.m3u8
+辽宁北方,http://sh.lnott.top:880/dx25.m3u8
+辽宁经济,http://sh.lnott.top:880/dx26.m3u8
+辽宁公共,http://sh.lnott.top:880/dx27.m3u8
+沈阳卫视,http://sh.lnott.top:880/dx28.m3u8
+北京卫视,http://sh.lnott.top:880/dx29.m3u8
+天津卫视,http://sh.lnott.top:880/dx30.m3u8
+湖南卫视,http://sh.lnott.top:880/dx31.m3u8
+浙江卫视,http://sh.lnott.top:880/dx32.m3u8
+江苏卫视,http://sh.lnott.top:880/dx33.m3u8
+安徽卫视,http://sh.lnott.top:880/dx34.m3u8
+东方卫视,http://sh.lnott.top:880/dx35.m3u8
+黑龙江卫视,http://sh.lnott.top:880/dx36.m3u8
+吉林卫视,http://sh.lnott.top:880/dx37.m3u8
+山东卫视,http://sh.lnott.top:880/dx38.m3u8
+山西卫视,http://sh.lnott.top:880/dx39.m3u8
+广东卫视,http://sh.lnott.top:880/dx40.m3u8
+广西卫视,http://sh.lnott.top:880/dx41.m3u8
+湖边卫视,http://sh.lnott.top:880/dx42.m3u8
+江西卫视,http://sh.lnott.top:880/dx43.m3u8
+河南卫视,http://sh.lnott.top:880/dx44.m3u8
+四川卫视,http://sh.lnott.top:880/dx45.m3u8
+重庆卫视,http://sh.lnott.top:880/dx46.m3u8
+东南卫视,http://sh.lnott.top:880/dx47.m3u8
+厦门卫视,http://sh.lnott.top:880/dx48.m3u8
+云南卫视,http://sh.lnott.top:880/dx49.m3u8
+贵州卫视,http://sh.lnott.top:880/dx50.m3u8
+陕西卫视,http://sh.lnott.top:880/dx51.m3u8
+内蒙古卫视,http://sh.lnott.top:880/dx52.m3u8
+宁夏卫视,http://sh.lnott.top:880/dx53.m3u8
+青海卫视,http://sh.lnott.top:880/dx54.m3u8
+新疆卫视,http://sh.lnott.top:880/dx55.m3u8
+甘肃卫视,http://sh.lnott.top:880/dx56.m3u8
+西藏卫视,http://sh.lnott.top:880/dx57.m3u8
+海南卫视,http://sh.lnott.top:880/dx58.m3u8
+兵团卫视,http://sh.lnott.top:880/dx59.m3u8
+
+
+
+
+
 
 东方卫视,http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
