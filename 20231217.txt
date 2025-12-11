@@ -165,6 +165,7 @@ CCTV13,http://124.165.251.82:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&au
 
 
 CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=cctv6
 
 
 sh.lnott.top,#genre#
