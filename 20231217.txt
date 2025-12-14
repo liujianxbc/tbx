@@ -1115,18 +1115,22 @@ CCTV-台球,http://doityoume.x3322.net:5100/rtp/239.69.1.98:10224
 云南｜福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
 
 
-浙江｜钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江｜经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江｜教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江｜民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江影视娱乐,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
-浙江｜公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+中国蓝|9台,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+好易购,https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
 浙江｜之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
+
 浙江｜杭州生活,http://www.372583307.top:4022/udp/233.50.201.175:5140
 浙江｜杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 浙江｜杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
