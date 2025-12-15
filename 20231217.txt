@@ -520,6 +520,10 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 
 🇭🇰港台,#genre#
 
+1905电影,http://php.jdshipin.com/1905.php?id=1905dy
+astroAod,http://php.jdshipin.com/PLTV/iptv.php?id=aod
+astroAod,http://php.jdshipin.com/smt.php?id=Aodhd
+TVB千禧经典,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 
 cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
