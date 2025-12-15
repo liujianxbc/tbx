@@ -367,32 +367,37 @@ CCTV21,http://171.15.18.199:8180/TV00000000000000000021@HHZT
 
 
 
-
+广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 
 东方卫视,http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-
 北京卫视,http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+乐游,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+湖南卫视,http://218.17.33.178:53290/tsfile/live/0128_1.m3u8?key=txiptv
+辽宁卫视,http://218.17.33.178:53290/tsfile/live/0121_1.m3u8?key=txiptv
+甘肃卫视,http://218.17.33.178:53290/tsfile/live/0141_1.m3u8?key=txiptv$甘肃卫视
+新疆卫视,http://218.17.33.178:53290/tsfile/live/0110_1.m3u8?key=txiptv$低清新疆
+江西卫视,http://218.17.33.178:53290/tsfile/live/0138_1.m3u8?key=txiptv
+内蒙古卫视,http://218.17.33.178:53290/tsfile/live/0109_1.m3u8?key=txiptv$低清内蒙古
+
+
 
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
-湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://218.17.33.178:53290/tsfile/live/0128_1.m3u8?key=txiptv
-
-辽宁卫视,http://218.17.33.178:53290/tsfile/live/0121_1.m3u8?key=txiptv
 
 
-深圳卫视,http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 
-甘肃卫视,http://218.17.33.178:53290/tsfile/live/0141_1.m3u8?key=txiptv$甘肃卫视
 
-新疆卫视,http://218.17.33.178:53290/tsfile/live/0110_1.m3u8?key=txiptv$低清新疆
 
-江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://218.17.33.178:53290/tsfile/live/0138_1.m3u8?key=txiptv
 
-内蒙古卫视,http://218.17.33.178:53290/tsfile/live/0109_1.m3u8?key=txiptv$低清内蒙古
 
 kttv-1,https://epg.pw/stream/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8
 影迷电影,https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
@@ -657,63 +662,72 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 河北｜鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
 
 河南｜梨园,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+河南｜永城综合,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+河南｜南阳内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
+河南｜洛阳偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
+
 河南｜临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 河南｜义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
 河南｜义马电视,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
 河南｜光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
 河南｜兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
 河南｜兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-河南｜内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
-河南｜卫辉综合频道,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?zhend
+河南｜内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
 河南｜叶县,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
 河南｜叶县,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
 河南｜商丘永城综合,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
-河南｜唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend
+河南｜商丘虞城综合,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+
 河南｜唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
 河南｜唐河一套,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
 河南｜固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
-河南｜宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend
-河南｜宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
-河南｜嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8?zhend
-河南｜巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8?zhend
-河南｜扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
+河南｜宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+河南｜宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+河南｜嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
+河南｜巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 河南｜扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
 河南｜周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+河南｜周口郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
+
 河南｜新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
-河南｜新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?zhend
+河南｜新乡卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+
 河南｜新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-河南｜新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?zhend
+河南｜新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
 河南｜泌阳综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 河南｜新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
-河南｜新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
-河南｜方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
+河南｜新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+河南｜方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 
 河南｜济源电视一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-河南｜济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
+河南｜济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 河南｜淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
 河南｜渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
-河南｜温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
-河南｜滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?zhend
+河南｜温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+河南｜滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
 河南｜潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-河南｜灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
+河南｜灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 河南｜焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-河南｜焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
-河南｜焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
+河南｜焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 河南｜焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+河南｜焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+河南｜焦作沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 
 河南｜登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
-
+河南｜开封新闻综合,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
+河南｜开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
 河南｜禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-河南｜禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
 河南｜禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
-河南｜荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
-河南｜西华综合,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?zhend
-河南｜邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?zhend
-河南｜郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
+河南｜荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+河南｜西华综合,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
+河南｜邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
+河南｜郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 河南｜郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
 河南｜鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 河南｜项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-河南｜鹿邑新闻频道,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
+河南｜鹿邑新闻频道,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+
+
 
 湖北｜武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 湖北｜武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
