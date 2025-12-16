@@ -1388,6 +1388,18 @@ B站CS2,https://live.iill.top/bilibili/21622811
 虎牙|经典电影,#genre#
 lpl,http://live.metshop.top/huya/lpl
 虎牙英雄联盟,https://live.iill.top/huya/660001
+
+海绵宝宝,https://live.metshop.top/douyu/3949681
+中华小当家,https://live.metshop.top/huya/11342413?cdn=alicdn
+单挑荒野,http://live.metshop.top/huya/21059578?cdn=alicdn
+电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
+电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
+电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
+电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
+电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
+电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
+
+
 亮剑,http://live.metshop.top/huya/30080238
 
 康熙王朝,http://live.metshop.top/huya/11352940
