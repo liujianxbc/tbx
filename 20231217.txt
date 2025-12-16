@@ -529,6 +529,11 @@ cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+海峡卫视,http://r.jdshipin.com/WtYt3
+广东体育,http://r.jdshipin.com/LiYdg
+广东珠江,http://r.jdshipin.com/sE5vO
+翡翠台,http://r.jdshipin.com/GeWKr
+TVB星河,http://r.jdshipin.com/sXuuD
 
 
 
