@@ -1353,6 +1353,15 @@ B站CS2,https://live.iill.top/bilibili/21622811
 斗鱼|经典电影,#genre#
 斗鱼英雄联盟,https://live.iill.top/douyu/424559
 
+冰冰影厅源,http://zzy789.xyz/douyu1.php?id=74374
+橙記港剧源,http://zzy789.xyz/douyu1.php?id=4549169
+mv源,http://zzy789.xyz/douyu1.php?id=122402
+mv点播源,http://zzy789.xyz/douyu1.php?id=20415
+华语影视源,http://zzy789.xyz/douyu1.php?id=3928
+XXXX影院,http://zzy789.xyz/douyu1.php?id=508118
+凌儿影院,http://zzy789.xyz/douyu1.php?id=1377142
+
+
 斗鱼｜最佳影片大放送,http://zzy789.xyz/douyu1.php?id=8770422
 斗鱼｜东北大鹌鹑,http://zzy789.xyz/douyu1.php?id=96291
 
