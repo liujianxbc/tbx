@@ -18,11 +18,10 @@ proxies:
   
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 176 | ⬇️ 235KB/s, server: 154.26.192.123, port: 10988, type: http, username: fQ67Dpe5dU, password: gs4BXwT6SW, tls: false}
 
-  - {name: 🎁 t.me/PFSub | 🇻🇳 VN 249 | ⬇️ 15KB/s, server: 103.186.154.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
+ 
   - {name: 🎁 t.me/PFSub | 🇭🇰 HK 137 | ⬇️ 99KB/s, server: 172.93.165.193, port: 36855, type: http, username: xZedCGy2A5, password: 76nlxJLO35, tls: false}
-  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 238 | ⬇️ 180KB/s, server: 43.252.229.243, port: 3000, type: http, username: wanghui1, password: wanghui1, tls: false}
-  - {name: 🇺🇸 美国 | USA 4, server: usvless.yydzx.xyz, port: 17036, type: vless, uuid: e715f8e2-664c-4f6e-bb71-56d967cebb96, tls: true, flow: xtls-rprx-vision, servername: usvless.yydzx.xyz, client-fingerprint: chrome, network: tcp, udp: true} 
-  - {name: 🇺🇸 美国 | USA 8, server: usvless.yydzx.xyz, port: 17342, type: vless, uuid: 5b7124d0-7092-466c-b9fa-c13be64f0cb0, tls: true, flow: xtls-rprx-vision, servername: usvless.yydzx.xyz, client-fingerprint: chrome, network: tcp, udp: true}  
+
+
   - {name: 🇻🇳 越南 | VNM, server: 103.186.154.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
   - {name: MD_510be_0013, server: 213.159.66.206, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu, udp: true}
   - {name: RU俄罗斯(mibei77.com 米贝节点分享) 2, server: 45.14.245.2, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 17ZDORWIliQHuO6WRGHChXYMzdRtAYVP, udp: true}
