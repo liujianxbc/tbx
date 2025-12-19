@@ -17,64 +17,36 @@ dns:
 proxies:
   
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 176 | ⬇️ 235KB/s, server: 154.26.192.123, port: 10988, type: http, username: fQ67Dpe5dU, password: gs4BXwT6SW, tls: false}
-
- 
   - {name: 🎁 t.me/PFSub | 🇭🇰 HK 137 | ⬇️ 99KB/s, server: 172.93.165.193, port: 36855, type: http, username: xZedCGy2A5, password: 76nlxJLO35, tls: false}
 
 
-  - {name: 🇻🇳 越南 | VNM, server: 103.186.154.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true}
-  - {name: MD_510be_0013, server: 213.159.66.206, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pl2XtR0pzwknQOGwewbwXtPYDw1zn9Vu, udp: true}
-  - {name: RU俄罗斯(mibei77.com 米贝节点分享) 2, server: 45.14.245.2, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 17ZDORWIliQHuO6WRGHChXYMzdRtAYVP, udp: true}
-  - {name: _KR_韩国, server: 221.139.79.57, port: 37008, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🎁 t.me/PFSub | 🇻🇳 VN 129 | ⬇️ 15KB/s, server: 103.186.155.10, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
-  - {name: 🎁 t.me/PFSub | 🇭🇰 HK 186 | ⬇️ 57KB/s, server: cf.0sm.com, port: 443, type: vless, uuid: e9c198e7-ccec-49a8-b558-8688aa8ec515, tls: true, servername: guang-page.asong.eu.org, client-fingerprint: chrome, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: guang-page.asong.eu.org}}}
-  - {name: "[Trojan] 🇭🇰 香港 电讯盈科有限公司", server: 58.152.26.173, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true, udp: true, tfo: false}
-
-  - name: "\U0001F1F9\U0001F1FCTW²_1|0.9MB/s|GPT⁺|TK|NF|X|KeepHistory"
-    password: exaxgqkKkd0TAMrCxeonWg==
-    port: 1443
-    server: twmoon1-cdn-route.couldflare-cdn.com
-    skip-cert-verify: false
-    tls: true
-    type: http
-    username: mrwdfNTD8M79LCukCieldrqZWqs=
-    sni: twmoon1-cdn-route.couldflare-cdn.com
-  - name: "\U0001F1F0\U0001F1F7KR²_1|4.9MB/s|11%|GPT|YT|TK|X|KeepSucced"
-    password: test.+
-    port: 30446
-    server: testkr3.ssv.vc
+  - alterId: 0
+    cipher: auto
+    name: 🇯🇵 JP-007
+    port: 20002
+    server: 46.3.47.250
     skip-cert-verify: true
-    tls: true
-    type: http
-    udp: true
-    username: test
-    sni: testkr3.ssv.vc  
-  - name: YouTube顺丰资源 美国271
-    type: vless
-    server: 108.162.198.11
-    port: 2096
-    uuid: 5aba5b77-48eb-4ae2-b60d-5bfee7ac169e
-    tls: true
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: kuangbao.xiejiang.dpdns.org
-      early-data-header-name: Sec-WebSocket-Protocol
-      max-early-data: 2560
-    servername: kuangbao.xiejiang.dpdns.org
-  - type: vless
-    name: gaa 加州 洛杉矶 cc
-    server: 198.46.146.14
-    port: 54441
-    uuid: 8f4c811e-3af2-4753-abec-8c46fb7a78bb
-    tls: true
-    flow: xtls-rprx-vision
-    client-fingerprint: chrome
-    skip-cert-verify: false
-    reality-opts:
-      public-key: CT6kMvGTGqHLdBAYyTS5y7Aq7O5aUEsc05ZPLp0Edjw
-      short-id: 1a2fb818
-    network: tcp
-    encryption: none
-    servername: www.lovelive-anime.jp	
+    tls: false
+    type: vmess
+    uuid: e5ce425e-0b84-435c-aee5-9f9ecbe2cb16
+  - cipher: rc4-md5
+    name: 🇸🇬 SG-005
+    password: 14fFPrbezE3HDZzsMOr6
+    port: 8080
+    server: 68.183.227.4
+    type: ss   
+  - cipher: chacha20-ietf-poly1305
+    name: 🇭🇰 HK-010
+    password: HaNqw9pIE4jcx98sg7UQgHeGNTM4R2pk
+    port: 443
+    server: 194.246.114.101
+    type: ss
+    udp: true    
+
+  - cipher: chacha20-ietf-poly1305
+    name: 🇮🇳 IN-006
+    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
+    port: 990
+    server: 103.97.203.227
+    type: ss    
+    
