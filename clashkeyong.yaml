@@ -18,8 +18,15 @@ proxies:
   
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 176 | ⬇️ 235KB/s, server: 154.26.192.123, port: 10988, type: http, username: fQ67Dpe5dU, password: gs4BXwT6SW, tls: false}
   - {name: 🎁 t.me/PFSub | 🇭🇰 HK 137 | ⬇️ 99KB/s, server: 172.93.165.193, port: 36855, type: http, username: xZedCGy2A5, password: 76nlxJLO35, tls: false}
+  - {name: 🎁 t.me/PFSub | 🇰🇷 KR 196 | ⬇️ 88KB/s, server: 121.169.46.116, port: 1090, type: socks5}
+  - {name: 🎁 t.me/PFSub | 🇺🇸 US 004 | ⬇️ 99KB/s, server: 154.26.192.123, port: 10988, type: http, username: fQ67Dpe5dU, password: gs4BXwT6SW, tls: false}
 
 
+
+  
+  - {name: 🎁 t.me/PFSub | 🇵🇭 PH 218 | ⬇️ 270KB/s, server: 38.54.87.34, port: 10881, type: http, username: 09ahaEWmXn, password: Ejtp4SfY82, tls: false}
+ 
+  - {name: 🎁 t.me/PFSub | 🇯🇵 JP 070 | ⬇️ 1MB/s, server: 103.134.35.75, port: 38736, type: http, username: kZXMC3Z1, password: vZ9gnU, tls: false}
   - alterId: 0
     cipher: auto
     name: 🇯🇵 JP-007
