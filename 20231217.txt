@@ -741,6 +741,8 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 河北｜鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
 
 河南｜梨园,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+移动戏曲频道,https://dxtx.hntv.tv/live/ydxq.m3u8?txSecret=caad41b421fdab7fa0dfbaf96f59f9f0&txTime=7B2E515F&wsSecret=22c7743616983370c506332d5d034851&wsTime=1764835229
+
 河南｜永城综合,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 河南｜南阳内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
 河南｜洛阳偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
