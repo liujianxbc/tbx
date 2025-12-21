@@ -656,6 +656,7 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 贵州｜毕节七星关,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 贵州｜铜仁松桃,http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd
 贵州｜遵义凤岗,http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
+贵州｜安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
 
 河北｜石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
 河北｜石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
@@ -751,6 +752,7 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 湖北｜武汉3台,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 湖北｜武汉六台外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
 湖北｜武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
+湖北｜荆门新闻,https://stream.jmtv.com.cn/xwzh/playlist.m3u8
 湖北｜荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 湖北｜荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 湖北｜荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
@@ -792,13 +794,16 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 吉林｜延边-2,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
 吉林｜延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
 吉林｜延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
+吉林｜延边敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
+吉林｜白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8
+
 吉林｜通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
 吉林｜桦甸,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 吉林｜ps,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 吉林｜舒兰,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 吉林｜df,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 吉林｜四平双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
-吉林｜hn,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
+吉林｜辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 吉林｜lh,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 吉林｜通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 吉林｜龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
@@ -817,6 +822,7 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 江苏｜南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 
 江苏｜苏州,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
+江苏｜苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 江苏｜如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 江苏｜高邮,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
@@ -839,6 +845,7 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 江苏｜无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
 江苏｜无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
 江苏｜无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
+江苏｜无锡宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 
 江苏｜徐州沛县,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
 江苏｜徐州睢宁sn,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
@@ -867,16 +874,22 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 
 
 
-内蒙古｜察右前旗新闻,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live165597544721311.m3u8
-内蒙古｜鄂托克旗,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
-
-内蒙古｜可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
 内蒙古综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
 内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
+
+内蒙古｜经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+内蒙古｜文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+内蒙古｜蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+内蒙古｜蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+
+内蒙古｜察右前旗新闻,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live165597544721311.m3u8
+内蒙古｜鄂托克旗,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
+
+内蒙古｜可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
 内蒙古｜呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 内蒙古｜巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
 内蒙古｜鄂尔多斯新闻综合,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
@@ -1007,6 +1020,7 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 四川｜乐至综合,http://rmlive.lzxrmtzx.com/live1/live1.m3u8
 四川｜乐山夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
 四川｜乐山夹江,rtmp://tv.jjrm.org.cn/channellive/ch1
+四川｜乐山井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 
 四川｜乐山犍为,http://r8.vzan.com:80/v/slowlive_230559508552681163.m3u8
 四川｜乐山五通桥,https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=1663323505-0-0-01843919c015a267038d6e00fd1e1519
@@ -1036,6 +1050,8 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 四川｜广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 四川｜广安岳池,http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b
 四川｜雅安汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
+四川｜雅安名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
+
 四川｜汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 四川｜泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 四川｜泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
@@ -1064,7 +1080,9 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 四川｜黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8
 四川｜宜宾叙州综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 四川｜宜宾长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
+四川｜南充营山,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 四川｜南充营山,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+
 四川｜自贡综合,http://110.189.153.160:1001/zhpd.flv?zsicd
 四川｜自贡生活,http://110.189.153.160:1002/ggpd.flv?zsicd
 
@@ -1166,6 +1184,7 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 好易购,https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
 浙江｜之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江｜海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 
 
 浙江｜杭州生活,http://www.372583307.top:4022/udp/233.50.201.175:5140
@@ -1173,6 +1192,7 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 浙江｜杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 浙江｜杭州余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 浙江｜宁波象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+浙江｜宁象山新闻综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 
 浙江｜宁波余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 浙江｜宁波余姚生活,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
@@ -1190,6 +1210,10 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 浙江｜平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 浙江｜平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 浙江｜平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+浙江｜湖州新闻综合,https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+浙江｜湖州文化娱乐,https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+浙江｜湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
+
 浙江｜庆元综合频道,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
 浙江｜开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
 浙江｜开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
@@ -1733,4 +1757,3 @@ CCTV5+,http://pa.kuangdeng.top:8081/hls/16/index.m3u8
 广东体育,http://pa.kuangdeng.top:8081/hls/53/index.m3u8
 广东经济科教,http://pa.kuangdeng.top:8081/hls/54/index.m3u8
 广东4k超高清,http://pa.kuangdeng.top:8081/hls/55/index.m3u8
-
