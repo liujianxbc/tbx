@@ -50,11 +50,7 @@ proxies:
     type: ss
     udp: true    
 
-  - cipher: chacha20-ietf-poly1305
-    name: 🇮🇳 IN-006
-    password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=
-    port: 990
-    server: 103.97.203.227
+
   - name: "KR²_4|8.8MB/s"
     password: test.+
     port: 30446
@@ -66,10 +62,4 @@ proxies:
     username: test
     sni: testkr3.ssv.vc    
     type: ss    
-  - name: "\U0001F1F0\U0001F1F7KR²_2|2.2MB/s|1%|GPT⁺|X|KeepSucceed"
-    password: ''
-    port: 1090
-    server: 121.169.46.116
-    skip-cert-verify: true
-    type: socks5
-    username: ''    
+ 
