@@ -3,6 +3,24 @@
 
 🇨🇳央视频道,#genre#
 
+CCTV1, http://genglei.8866.org:9901/tsfile/live/0001_1.m3u8
+CCTV2, http://genglei.8866.org:9901/tsfile/live/0002_1.m3u8
+CCTV3, http://genglei.8866.org:9901/tsfile/live/0003_1.m3u8
+CCTV4, http://genglei.8866.org:9901/tsfile/live/0004_1.m3u8
+CCTV5, http://genglei.8866.org:9901/tsfile/live/0005_1.m3u8
+CCTV6, http://genglei.8866.org:9901/tsfile/live/0006_1.m3u8
+CCTV7, http://genglei.8866.org:9901/tsfile/live/0007_1.m3u8
+CCTV8, http://genglei.8866.org:9901/tsfile/live/0008_1.m3u8
+CCTV9, http://genglei.8866.org:9901/tsfile/live/0009_1.m3u8
+CCTV10, http://genglei.8866.org:9901/tsfile/live/0010_1.m3u8
+CCTV11, http://genglei.8866.org:9901/tsfile/live/0011_1.m3u8
+CCTV12, http://genglei.8866.org:9901/tsfile/live/0012_1.m3u8
+CCTV13, http://genglei.8866.org:9901/tsfile/live/0013_1.m3u8
+CCTV14, http://genglei.8866.org:9901/tsfile/live/0014_1.m3u8
+CCTV15, http://genglei.8866.org:9901/tsfile/live/0015_1.m3u8
+CCTV5+, http://genglei.8866.org:9901/tsfile/live/0016_1.m3u8
+CCTV17, http://genglei.8866.org:9901/tsfile/live/0019_1.m3u8
+
 
 CCTV1,http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -451,13 +469,16 @@ CGTN,#genre#
 
 
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+
 CGTN,https://0472.org/hls/cgtn.m3u8
 
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
-
+CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 
+CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
 🇭🇰港台,#genre#
@@ -484,7 +505,7 @@ cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 广东珠江,http://r.jdshipin.com/sE5vO
 翡翠台,http://r.jdshipin.com/GeWKr
 TVB星河,http://r.jdshipin.com/sXuuD
-
+tvb星河,https://cdn6.101.qzz.io/163189/tvbxh
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 
 
@@ -568,6 +589,8 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 小地方台,#genre#
 
 安徽｜导视,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
+安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
+
 安徽｜影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽｜经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 安徽｜综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
@@ -577,6 +600,7 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 安徽｜肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5.flv
 安徽｜亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8
 安徽｜亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
+安徽｜广德生活,https://live.gdtv.ah.cn/live/newsTV.m3u8
 
 安徽｜固镇综合,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 安徽｜宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
@@ -809,12 +833,12 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 
 吉林｜通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
 吉林｜桦甸,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
-吉林｜ps,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+吉林｜磐石,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 吉林｜舒兰,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
-吉林｜df,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+吉林｜东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 吉林｜四平双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
 吉林｜辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
-吉林｜lh,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+吉林｜柳河,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 吉林｜通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 吉林｜龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 吉林｜德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?zjild
@@ -1307,6 +1331,9 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 越南,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 越南, http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
 韩国,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 韩国,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 韩国,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
@@ -1336,10 +1363,18 @@ by综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
 韩国,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
 
+
+
+
+
+网络平台,#genre#
+搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+
+
+
 bilibili,#genre#
 B站英雄联盟,https://live.iill.top/bilibili/6
 B站CS2,https://live.iill.top/bilibili/21622811
-
 
 
 
@@ -1454,6 +1489,9 @@ lpl,http://live.metshop.top/huya/lpl
 
 七龙珠解说,https://live.iill.top/huya/25650806
 
+
+douyin,#genre#
+JJ斗地主,https://live.iill.top/douyin/685317364746
 
 yy,#genre#
 
