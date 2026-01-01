@@ -17,6 +17,106 @@ dns:
     - tls://dns.google:853
 proxies:
   - {"name":"🇨🇦 加拿大","server":"40.233.77.57","port":"52434","type":"tuic","password":"a13a6ce4-cafa-4b26-a710-a03aa91c5418","uuid":"a13a6ce4-cafa-4b26-a710-a03aa91c5418","sni":"www.bing.com","skip-cert-verify":true,"alpn":["h3"],"disable-sni":false,"reduce-rtt":false,"request-timeout":"0","version":"5"}
+  - name: 🇬🇧伦敦-London-1-2
+    type: tuic
+    server: lundun1.nezhasu.com
+    port: 64054
+    udp: true
+    uuid: d9812081-7f61-456d-9340-a1fb8dfd603b
+    password: d9812081-7f61-456d-9340-a1fb8dfd603b
+    skip-cert-verify: false
+    sni: lundun1.nezhasu.com
+    alpn:
+      - h3
+    congestion-controller: bbr
+    udp-relay-mode: native
+    version: 5
+  - name: 🇺🇸 美国 | USA 60-1
+    server: 144.24.2.103
+    port: 54759
+    type: tuic
+    password: d9812081-7f61-456d-9340-a1fb8dfd603b
+    uuid: d9812081-7f61-456d-9340-a1fb8dfd603b
+    sni: phoenix-1.nezhasu.cn
+    alpn:
+      - h3
+    disable-sni: false
+    reduce-rtt: false
+    request-timeout: 0
+    udp-relay-mode: native
+    congestion-controller: bbr
+    version: 5
+  - name: 🇬🇧 英国 | GBR 3-1
+    server: 132.145.68.142
+    port: 55024
+    type: tuic
+    password: d9812081-7f61-456d-9340-a1fb8dfd603b
+    uuid: d9812081-7f61-456d-9340-a1fb8dfd603b
+    sni: lundun2.nezhasu.com
+    alpn:
+      - h3
+    disable-sni: false
+    reduce-rtt: false
+    request-timeout: 0
+    udp-relay-mode: native
+    congestion-controller: bbr
+    version: 5	
+  - name: 🇬🇧伦敦-London-4-1
+    type: tuic
+    server: lundun4.nezhasu.com
+    port: 54761
+    udp: true
+    uuid: d9812081-7f61-456d-9340-a1fb8dfd603b
+    password: d9812081-7f61-456d-9340-a1fb8dfd603b
+    skip-cert-verify: false
+    sni: lundun4.nezhasu.com
+    alpn:
+      - h3
+    congestion-controller: bbr
+    udp-relay-mode: native
+    version: 5
+  - name: 🇺🇸美国-Phoenix-3-2
+    type: tuic
+    server: phoenix-3.nezhasu.com
+    port: 59524
+    udp: true
+    uuid: d9812081-7f61-456d-9340-a1fb8dfd603b
+    password: d9812081-7f61-456d-9340-a1fb8dfd603b
+    skip-cert-verify: false
+    sni: phoenix-3.nezhasu.com
+    alpn:
+      - h3
+    congestion-controller: bbr
+    udp-relay-mode: native
+    version: 5
+  - name: 🇺🇸美国-Phoenix-4-1
+    type: tuic
+    server: phoenix-4.nezhasu.com
+    port: 61961
+    udp: true
+    uuid: d9812081-7f61-456d-9340-a1fb8dfd603b
+    password: d9812081-7f61-456d-9340-a1fb8dfd603b
+    skip-cert-verify: false
+    sni: phoenix-4.nezhasu.com
+    alpn:
+      - h3
+    congestion-controller: bbr
+    udp-relay-mode: native
+    version: 5
+  - name: 套餐到期：长期有效-02-1
+    type: tuic
+    server: marseille-1.nezhasu.com
+    port: 65138
+    udp: true
+    uuid: d9812081-7f61-456d-9340-a1fb8dfd603b
+    password: d9812081-7f61-456d-9340-a1fb8dfd603b
+    skip-cert-verify: false
+    sni: marseille-1.nezhasu.com
+    alpn:
+      - h3
+    congestion-controller: bbr
+    udp-relay-mode: native
+    version: 5
 
 
 
