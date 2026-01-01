@@ -20,6 +20,8 @@ proxies:
   - {name: 🎁 t.me/PFSub | 🇭🇰 HK 137 | ⬇️ 99KB/s, server: 172.93.165.193, port: 36855, type: http, username: xZedCGy2A5, password: 76nlxJLO35, tls: false}
   - {name: 🎁 t.me/PFSub | 🇰🇷 KR 196 | ⬇️ 88KB/s, server: 121.169.46.116, port: 1090, type: socks5}
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 004 | ⬇️ 99KB/s, server: 154.26.192.123, port: 10988, type: http, username: fQ67Dpe5dU, password: gs4BXwT6SW, tls: false}
+  - {name: 🇭🇰 香港 | HKG 3, server: 8.218.238.254, port: 36468, type: vmess, uuid: 107b029b-94d2-43c5-b1ba-602d7c11203d, alterId: 0, cipher: auto, tls: false, network: http, http-opts: {method: GET, path: [/x]}, udp: true}
+  - {name: 🇭🇰 香港 | HKG 4, server: v4.hdacd.com, port: 30804, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, udp: true}
 
 
 
@@ -62,4 +64,17 @@ proxies:
     username: test
     sni: testkr3.ssv.vc    
     type: ss    
- 
+  - name: 中国 - 香港 - Alibaba (US) Technology Co., Ltd. - 3
+    server: 8.218.238.254
+    type: vmess
+    port: 46524
+    uuid: 5d564055-2b42-406b-9183-28cc63d8914a
+    alterId: 0
+    cipher: auto
+    network: http
+    http-opts:
+      method: GET
+      path:
+        - /x
+    h2-opts: {}
+    delay: 869 
