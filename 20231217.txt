@@ -49,6 +49,23 @@ CCTV11,http://124.165.251.82:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&au
 CCTV12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://124.165.251.82:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV1,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8
+CCTV2,http://112.123.243.37:50085/tsfile/live/0002_1.m3u8
+CCTV3,http://112.123.243.37:50085/tsfile/live/0003_1.m3u8
+CCTV4,http://112.123.243.37:50085/tsfile/live/0004_1.m3u8
+CCTV5,http://112.123.243.37:50085/tsfile/live/0005_1.m3u8
+CCTV5+,http://112.123.243.37:50085/tsfile/live/0006_1.m3u8
+CCTV6,http://112.123.243.37:50085/tsfile/live/0007_1.m3u8
+CCTV7,http://112.123.243.37:50085/tsfile/live/0008_1.m3u8
+CCTV8,http://112.123.243.37:50085/tsfile/live/0009_1.m3u8
+CCTV9,http://112.123.243.37:50085/tsfile/live/0010_1.m3u8
+CCTV10,http://112.123.243.37:50085/tsfile/live/0011_1.m3u8
+CCTV11,http://112.123.243.37:50085/tsfile/live/0012_1.m3u8
+CCTV12,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
+CCTV13,http://112.123.243.37:50085/tsfile/live/0014_1.m3u8
+CCTV14,http://112.123.243.37:50085/tsfile/live/0015_1.m3u8
+CCTV15,http://112.123.243.37:50085/tsfile/live/0016_1.m3u8
+
 
 CCTV1, http://genglei.8866.org:9901/tsfile/live/0001_1.m3u8
 CCTV2, http://genglei.8866.org:9901/tsfile/live/0002_1.m3u8
@@ -127,6 +144,7 @@ CCTV17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv$低清
 
 
 
+
 CCTV1,http://49.232.181.26:6000/rtp/225.1.8.1:8008
 CCTV2,http://49.232.181.26:6000/rtp/225.1.8.2:8084
 
@@ -149,7 +167,20 @@ CCTV17,http://49.232.181.26:6000/rtp/225.1.8.17:8144
 CETV1,http://49.232.181.26:6000/rtp/225.1.8.32:8152
 CETV2,http://49.232.181.26:6000/rtp/225.1.8.193:4120
 
-
+CCTV1,http://120.211.62.180:8000/hls/1/index.m3u8
+CCTV2,http://120.211.62.180:8000/hls/2/index.m3u8
+CCTV4,http://120.211.62.180:8000/hls/4/index.m3u8
+CCTV7,http://120.211.62.180:8000/hls/7/index.m3u8
+CCTV9,http://120.211.62.180:8000/hls/9/index.m3u8
+CCTV10,http://120.211.62.180:8000/hls/10/index.m3u8
+CCTV11,http://120.211.62.180:8000/hls/11/index.m3u8
+CCTV12,http://120.211.62.180:8000/hls/12/index.m3u8
+CCTV13,http://120.211.62.180:8000/hls/13/index.m3u8
+CCTV14,http://120.211.62.180:8000/hls/14/index.m3u8
+CCTV15,http://120.211.62.180:8000/hls/15/index.m3u8
+CGTN,http://120.211.62.180:8000/hls/16/index.m3u8
+CCTV17,http://120.211.62.180:8000/hls/17/index.m3u8
+CCTV5,http://120.211.62.180:8000/hls/18/index.m3u8
 
 
 
@@ -169,6 +200,10 @@ CCTV12,http://60.16.0.216:5757/hls/13/index.m3u8
 CCTV13,http://60.16.0.216:5757/hls/14/index.m3u8
 CCTV14,http://60.16.0.216:5757/hls/15/index.m3u8
 
+CCTV3,http://112.132.10.54:9901/tsfile/live/0003_1.m3u8
+CCTV5,http://112.132.10.54:9901/tsfile/live/0005_1.m3u8
+CCTV6,http://112.132.10.54:9901/tsfile/live/0006_1.m3u8
+CCTV8,http://112.132.10.54:9901/tsfile/live/0008_1.m3u8
 
 
 
@@ -180,6 +215,7 @@ CCTV14,http://8.138.7.223/tv/gzjs.m3u8
 CCTV14,http://8.138.7.223/tv/lotustv.m3u8
 CCTV14,http://8.138.7.223/tv/lotustv.m3u8?live/110_1.m3u8?txiptv
 
+CCTV10,http://1.24.39.180:9003/hls/10/index.m3u8
 
 
 sh.lnott.top,#genre#
@@ -306,8 +342,6 @@ city都市剧场,http://sh.lnott.top:880/dx107.m3u8
 无法播放,http://sh.lnott.top:880/dx119.m3u8
 
 
-
-
 湖南卫视,http://49.232.181.26:6000/rtp/225.1.8.41:8012
 江苏卫视,http://49.232.181.26:6000/rtp/225.1.8.44:8028
 浙江卫视,http://49.232.181.26:6000/rtp/225.1.8.46:8036
@@ -400,6 +434,12 @@ IPTV好学生,http://49.232.181.26:6000/rtp/225.1.8.241:4120
 
 
 
+CETV1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
+CETV4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
+法治天地,http://112.254.55.106:22222/rtp/239.253.254.96:8000
+SiTV都市剧场,http://112.254.55.106:22222/rtp/239.253.254.98:8000
+
+
 
 
 
@@ -449,6 +489,37 @@ IPTV好学生,http://49.232.181.26:6000/rtp/225.1.8.241:4120
 兵团卫视,http://sh.lnott.top:880/dx59.m3u8
 
 
+江苏卫视,http://112.123.243.37:50085/tsfile/live/0017_1.m3u8
+河北卫视,http://112.123.243.37:50085/tsfile/live/0018_1.m3u8
+浙江卫视,http://112.123.243.37:50085/tsfile/live/0019_1.m3u8
+
+陕西卫视,http://112.123.243.37:50085/tsfile/live/0109_1.m3u8
+兵团卫视,http://112.123.243.37:50085/tsfile/live/0112_1.m3u8
+东南卫视,http://112.123.243.37:50085/tsfile/live/0113_1.m3u8
+
+吉林卫视,http://112.123.243.37:50085/tsfile/live/0116_1.m3u8
+云南卫视,http://112.123.243.37:50085/tsfile/live/0117_1.m3u8
+内蒙古卫视,http://112.123.243.37:50085/tsfile/live/0118_1.m3u8
+山西卫视,http://112.123.243.37:50085/tsfile/live/0120_1.m3u8
+河南卫视,http://112.123.243.37:50085/tsfile/live/0121_1.m3u8
+山东卫视,http://112.123.243.37:50085/tsfile/live/0122_1.m3u8
+甘肃卫视,http://112.123.243.37:50085/tsfile/live/0123_1.m3u8
+东方卫视,http://112.123.243.37:50085/tsfile/live/0124_1.m3u8
+宁夏卫视,http://112.123.243.37:50085/tsfile/live/0125_1.m3u8
+辽宁卫视,http://112.123.243.37:50085/tsfile/live/0126_1.m3u8
+北京卫视,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8
+天津卫视,http://112.123.243.37:50085/tsfile/live/0128_1.m3u8
+安徽卫视,http://112.123.243.37:50085/tsfile/live/0130_1.m3u8
+重庆卫视,http://112.123.243.37:50085/tsfile/live/0131_1.m3u8
+江西卫视,http://112.123.243.37:50085/tsfile/live/0132_1.m3u8
+广东卫视,http://112.123.243.37:50085/tsfile/live/0135_1.m3u8
+厦门卫视,http://112.123.243.37:50085/tsfile/live/0136_1.m3u8
+广西卫视,http://112.123.243.37:50085/tsfile/live/0137_1.m3u8
+海南卫视,http://112.123.243.37:50085/tsfile/live/0138_1.m3u8
+四川卫视,http://112.123.243.37:50085/tsfile/live/0139_1.m3u8
+西藏卫视,http://112.123.243.37:50085/tsfile/live/0141_1.m3u8
+黑龙江卫视,http://112.123.243.37:50085/tsfile/live/0142_1.m3u8
+新疆卫视,http://112.123.243.37:50085/tsfile/live/0143_1.m3u8
 
 
 广西卫视,http://113.15.109.216:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -482,10 +553,25 @@ IPTV好学生,http://49.232.181.26:6000/rtp/225.1.8.241:4120
 
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
+河北卫视,http://120.211.62.180:8000/hls/19/index.m3u8
+湖南卫视,http://120.211.62.180:8000/hls/30/index.m3u8
+江苏卫视,http://120.211.62.180:8000/hls/32/index.m3u8
+安徽卫视,http://120.211.62.180:8000/hls/33/index.m3u8
+东南卫视,http://120.211.62.180:8000/hls/34/index.m3u8
+北京卫视,http://120.211.62.180:8000/hls/35/index.m3u8
+天津卫视,http://120.211.62.180:8000/hls/36/index.m3u8
+辽宁卫视,http://120.211.62.180:8000/hls/37/index.m3u8
+山东卫视,http://120.211.62.180:8000/hls/38/index.m3u8
+云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8
+河南卫视,http://120.211.62.180:8000/hls/40/index.m3u8
 
 
 kttv-1,https://epg.pw/stream/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8
 影迷电影,https://epg.pw/stream/f3585857f1474c6f9527ea29a7a99115a86855d9addb67619aa9a033299b48eb.m3u8
+
+金鹰卡通,http://113.57.93.165:9900/tsfile/live/1000_1.m3u8
+东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
+
 
 
 
