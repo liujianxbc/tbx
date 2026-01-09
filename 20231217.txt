@@ -227,7 +227,7 @@ CCTV13,http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=
 
 
 
-720*576速300kb，#genre#
+720*576|300kb,#genre#
 
 
 
