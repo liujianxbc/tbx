@@ -15,7 +15,23 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  
+
+  - cipher: aes-256-cfb
+    country: "\U0001F1F0\U0001F1F7KR"
+    name: "\U0001F1F0\U0001F1F7KR²_1|1.9MB/s|0%|GPT⁺|YT|NF|X|History|[原生|住宅]"
+    password: qwerREWQ@@
+    port: 11815
+    server: 121.170.203.148
+    type: ss
+  - name: "\U0001F1F0\U0001F1F7KR²_2|1.9MB/s|2%|GPT⁺|GM|X|History"
+    port: 1090
+    server: 121.169.46.116
+    tls: false
+    type: socks5
+    username: Og%3D%3D
+
+  - {name: 🎁 t.me/PFSub | 🇰🇷 KR 201 | ⬇️ 41KB/s, server: 152.70.92.69, port: 80, type: vmess, uuid: bb9c3993-a4b9-4dad-aeb9-ac86371ae68b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: http, http-opts: {method: GET, path: [/]}, udp: true}
+	  
   - {name: 🎁 t.me/PFSub | 🇺🇸 US 176 | ⬇️ 235KB/s, server: 154.26.192.123, port: 10988, type: http, username: fQ67Dpe5dU, password: gs4BXwT6SW, tls: false}
   - {name: 🎁 t.me/PFSub | 🇭🇰 HK 137 | ⬇️ 99KB/s, server: 172.93.165.193, port: 36855, type: http, username: xZedCGy2A5, password: 76nlxJLO35, tls: false}
   - {name: 🎁 t.me/PFSub | 🇰🇷 KR 196 | ⬇️ 88KB/s, server: 121.169.46.116, port: 1090, type: socks5}
