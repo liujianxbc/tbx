@@ -30,7 +30,20 @@ proxies:
     password: dongtaiwang.com
     skip-cert-verify: true
     sni: www.bing.com	
-
+  - alpn:
+      - h3
+    auth-str: dongtaiwang.com
+    auth_str: dongtaiwang.com
+    down: 55 Mbps
+    name: "\U0001F1EB\U0001F1F7FR²_1|5.4MB/s|GPT⁺|TK|X|History|[原生|住宅拨号]"
+    port: 26691
+    protocol: udp
+    server: 62.210.196.68
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    udp: true
+    up: 11 Mbps
 
 
 
