@@ -222,11 +222,22 @@ CCTV17,http://120.238.94.10:9901/tsfile/live/1048_1.m3u8
 
 
 
-CCTV9,http://60.16.0.216:5757/hls/10/index.m3u8$100k卡顿
+CCTV1,http://60.16.0.216:5757/hls/1/index.m3u8
+CCTV2,http://60.16.0.216:5757/hls/2/index.m3u8
+CCTV3,http://60.16.0.216:5757/hls/3/index.m3u8
+CCTV4,http://60.16.0.216:5757/hls/4/index.m3u8
+CCTV5,http://60.16.0.216:5757/hls/5/index.m3u8
+CCTV5+,http://60.16.0.216:5757/hls/6/index.m3u8
+CCTV6,http://60.16.0.216:5757/hls/7/index.m3u8
+CCTV7,http://60.16.0.216:5757/hls/8/index.m3u8
+CCTV8,http://60.16.0.216:5757/hls/9/index.m3u8
+CCTV9,http://60.16.0.216:5757/hls/10/index.m3u8
+CCTV10,http://60.16.0.216:5757/hls/11/index.m3u8
 CCTV11,http://60.16.0.216:5757/hls/12/index.m3u8
 CCTV12,http://60.16.0.216:5757/hls/13/index.m3u8
 CCTV13,http://60.16.0.216:5757/hls/14/index.m3u8
 CCTV14,http://60.16.0.216:5757/hls/15/index.m3u8
+
 
 CCTV3,http://112.132.10.54:9901/tsfile/live/0003_1.m3u8
 CCTV5,http://112.132.10.54:9901/tsfile/live/0005_1.m3u8
@@ -497,6 +508,61 @@ city都市剧场,http://sh.lnott.top:880/dx107.m3u8
 无法播放,http://sh.lnott.top:880/dx117.m3u8
 无法播放,http://sh.lnott.top:880/dx118.m3u8
 无法播放,http://sh.lnott.top:880/dx119.m3u8
+
+CCTV1,http://60.16.0.216:5757/hls/1/index.m3u8
+CCTV2,http://60.16.0.216:5757/hls/2/index.m3u8
+CCTV3,http://60.16.0.216:5757/hls/3/index.m3u8
+CCTV4,http://60.16.0.216:5757/hls/4/index.m3u8
+CCTV5,http://60.16.0.216:5757/hls/5/index.m3u8
+CCTV5+,http://60.16.0.216:5757/hls/6/index.m3u8
+CCTV6,http://60.16.0.216:5757/hls/7/index.m3u8
+CCTV7,http://60.16.0.216:5757/hls/8/index.m3u8
+CCTV8,http://60.16.0.216:5757/hls/9/index.m3u8
+CCTV9,http://60.16.0.216:5757/hls/10/index.m3u8
+CCTV10,http://60.16.0.216:5757/hls/11/index.m3u8
+CCTV11,http://60.16.0.216:5757/hls/12/index.m3u8
+CCTV12,http://60.16.0.216:5757/hls/13/index.m3u8
+CCTV13,http://60.16.0.216:5757/hls/14/index.m3u8
+CCTV14,http://60.16.0.216:5757/hls/15/index.m3u8
+辽宁卫视,http://60.16.0.216:5757/hls/16/index.m3u8
+体育休闲,http://60.16.0.216:5757/hls/17/index.m3u8
+新闻综合,http://60.16.0.216:5757/hls/18/index.m3u8
+北京卫视,http://60.16.0.216:5757/hls/19/index.m3u8
+东方卫视,http://60.16.0.216:5757/hls/20/index.m3u8
+广东卫视,http://60.16.0.216:5757/hls/21/index.m3u8
+深圳卫视,http://60.16.0.216:5757/hls/22/index.m3u8
+无效,http://60.16.0.216:5757/hls/23/index.m3u8
+湖北卫视,http://60.16.0.216:5757/hls/24/index.m3u8
+无效,http://60.16.0.216:5757/hls/25/index.m3u8
+重庆卫视,http://60.16.0.216:5757/hls/26/index.m3u8
+天津卫视,http://60.16.0.216:5757/hls/27/index.m3u8
+四川卫视,http://60.16.0.216:5757/hls/28/index.m3u8
+湖南卫视,http://60.16.0.216:5757/hls/29/index.m3u8
+山东卫视,http://60.16.0.216:5757/hls/30/index.m3u8
+安徽卫视,http://60.16.0.216:5757/hls/31/index.m3u8
+吉林卫视,http://60.16.0.216:5757/hls/32/index.m3u8
+河北卫视,http://60.16.0.216:5757/hls/33/index.m3u8
+江西卫视,http://60.16.0.216:5757/hls/34/index.m3u8
+黑龙江卫视,http://60.16.0.216:5757/hls/35/index.m3u8
+贵州卫视,http://60.16.0.216:5757/hls/36/index.m3u8
+CETV1,http://60.16.0.216:5757/hls/37/index.m3u8
+精彩影视,http://60.16.0.216:5757/hls/38/index.m3u8
+CHC影迷电影,http://60.16.0.216:5757/hls/39/index.m3u8
+CCTV风云音乐,http://60.16.0.216:5757/hls/40/index.m3u8
+CITY都市剧场,http://60.16.0.216:5757/hls/41/index.m3u8
+重温经典,http://60.16.0.216:5757/hls/42/index.m3u8
+甘肃卫视,http://60.16.0.216:5757/hls/43/index.m3u8
+游戏风云,http://60.16.0.216:5757/hls/44/index.m3u8
+乐游,http://60.16.0.216:5757/hls/45/index.m3u8
+无效,http://60.16.0.216:5757/hls/46/index.m3u8
+环球奇观,http://60.16.0.216:5757/hls/47/index.m3u8
+天元围棋,http://60.16.0.216:5757/hls/48/index.m3u8
+无效,http://60.16.0.216:5757/hls/49/index.m3u8
+金鹰卡通,http://60.16.0.216:5757/hls/50/index.m3u8
+
+
+
+
 
 
 湖南卫视,http://49.232.181.26:6000/rtp/225.1.8.41:8012
