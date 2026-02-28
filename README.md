@@ -13,6 +13,10 @@ https://raw.yzuu.cf/liujianxbc/tbx/main/20231217.txt          <---应该失效�
 
 咪咕接口，每日更新，第二日失效，也就是只能用该链接，并且缓存时长0天
 https://github.yunfile.fun/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+
+也是咪咕接口，也是每日更新，有457条。并非都可用
+http://116.115.6.103:1234/631780532?reptoken=R/mg&auth=
+
 bxtv接口，测试
 https://github.yunfile.fun/raw.githubusercontent.com/liujianxbc/tbx/refs/heads/main/tbx/bxtvlive.m3u
 
