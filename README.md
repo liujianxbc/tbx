@@ -7,6 +7,7 @@ https://raw.gitmirror.com/liujianxbc/tbx/main/dc.txt
 https://raw.gitmirror.com/liujianxbc/tbx/main/20231217.txt
 https://fastly.jsdelivr.net/gh/liujianxbc/tbx@main/20231217.txt
 
+https://github.yunfile.fun/raw.githubusercontent.com/liujianxbc/tbx/main/20231217.txt
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/liujianxbc/tbx/main/20231217.txt
 https://raw.yzuu.cf/liujianxbc/tbx/main/20231217.txt          <---应该失效了
