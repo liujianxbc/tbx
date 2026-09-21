@@ -18,12 +18,12 @@
             "name": "Tomorrow·采集(47源·1直播·纯HTTP)"
         },
 		{
-            "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "香雅情38"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/hackyjso_jzy.json",
+            "name": "教主·老牌爬虫(jar已404·待修)"
         },              
        {
-            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-            "name": "网盘线路50"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/qist_jsm.json",
+            "name": "qist·OK影视官方合集(151源·含直播)"
         },  
 		{
             "url": "http://meowtv.cn/tv",
