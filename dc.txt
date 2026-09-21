@@ -26,20 +26,20 @@
             "name": "qist·OK影视官方合集(151源·含直播)"
         },  
 		{
-            "url": "http://meowtv.cn/tv",
-            "name": "🐹喵影视线路53"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/gao_js.json",
+            "name": "高天流云·JS大库(298源·每日自动更新)"
         },         
        {
-            "url": "http://tvbox.王二小放牛娃.top",
-            "name": "放牛娃线路68"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/qist_fty.json",
+            "name": "饭太硬·老牌精简(49源)"
         },
 		{
-            "url": "http://tv.nxog.top/m",
-            "name": "欧歌线路69"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/autoiptv_live.json",
+            "name": "南风直播(871频道·国内直连·实测存活)"
         },
 		{
-            "url": "https://szyyds.cn/tv/x.json",
-            "name": "小马线路81"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/live.json",
+            "name": "纯直播合集(喵站+南风+咪咕·1313频道)"
         },
 		{
             "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/0825.json",
