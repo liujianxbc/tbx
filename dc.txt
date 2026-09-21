@@ -78,7 +78,7 @@
             "name": "💎不良帅线路"
         },                 
         {
-            "url": "https://raw.gitmirror.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
+            "url": "https://github.yunfile.fun/raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
             "name": "💎一木线路"
         }                                 	                  
     ]
