@@ -2,20 +2,20 @@
 {
     "urls": [                     
        {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
-            "name": "小米线路25"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/anaer_meow.json",
+            "name": "喵站·纯净HTTP(主力)"
         },
 	   {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "巧记线路27"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/c88_box.json",
+            "name": "C88聚合·修复版(92源·jar1.9MB·解析全)"
         },
 		{
-            "url": "https://100km.top/0",
-            "name": "Ray线路34"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/aa.json",
+            "name": "A站·轻量高命中(24源·5直播·纯HTTP)"
         },
 		{
-            "url": "https://tv.203511.xyz/0821.json",
-            "name": "TSQ线路34"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/caiji.json",
+            "name": "Tomorrow·采集(47源·1直播·纯HTTP)"
         },
 		{
             "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
