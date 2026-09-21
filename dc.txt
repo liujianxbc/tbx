@@ -54,20 +54,20 @@
             "name": "FongMI·0827修复版(33源·jar仅0.25MB·秒加载)"
         }, 
         {
-            "url": "https://raw.kkgithub.com/liu673cn/fm/main/m.json",
-            "name": "fm-JS231"
+            "url": "http://www.饭太硬.net/tv",
+            "name": "饭太硬·官方接口"
         },        
         {
-            "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json",
-            "name": " 高山JS289"
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": " 俊佬·jundie线路"
         },               
 		{
-            "url": "https://raw.gitmirror.com/leevi0709/one/main/jsm.json",
-            "name": " 🥞One线路"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+            "name": "老刘备·liu673源"
         },    
         {
-            "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
-            "name": " 🥞道长线路"
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "小马线路81"
         },  
 		{
             "url": "https://weixine.net/ysc.json",
