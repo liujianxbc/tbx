@@ -2,7 +2,7 @@
 {
     "urls": [                     
        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/anaer_meow.json",
+            "url": "https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/anaer_meow.json",
             "name": "喵站·纯净HTTP(主力)"
         },
 	   {
