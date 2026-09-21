@@ -2,8 +2,9 @@ https://live.fanmingming.com/
 在线播放和下载工具
 
 
-https://raw.gitmirror.com/liujianxbc/tbx/main/dc.txt
+https://raw.gitmirror.com/liujianxbc/tbx/main/dc.txt   <---应该失效了
 
+https://github.yunfile.fun/raw.githubusercontent.com/liujianxbc/tbx/main/dc.txt
 https://raw.gitmirror.com/liujianxbc/tbx/main/20231217.txt
 https://fastly.jsdelivr.net/gh/liujianxbc/tbx@main/20231217.txt
 
