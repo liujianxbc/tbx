@@ -6,43 +6,43 @@
             "name": "喵站·纯净HTTP(主力)"
         },
 	   {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/c88_box.json",
+            "url": "https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/c88_box.json",
             "name": "C88聚合·修复版(92源·jar1.9MB·解析全)"
         },
 		{
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/aa.json",
+            "url": "https://raw.githubusercontent.com/cluntop/tvbox/main/aa.json",
             "name": "A站·轻量高命中(24源·5直播·纯HTTP)"
         },
 		{
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/caiji.json",
+            "url": "https://raw.githubusercontent.com/tushen6/Tomorrow/master/caiji.json",
             "name": "Tomorrow·采集(47源·1直播·纯HTTP)"
         },
 		{
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/hackyjso_jzy.json",
+            "url": "https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/hackyjso_jzy.json",
             "name": "教主·老牌爬虫(jar已404·待修)"
         },              
        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/qist_jsm.json",
+            "url": "https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/qist_jsm.json",
             "name": "qist·OK影视官方合集(151源·含直播)"
         },  
 		{
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/gao_js.json",
+            "url": "https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/gao_js.json",
             "name": "高天流云·JS大库(298源·每日自动更新)"
         },         
        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/qist_fty.json",
+            "url": "https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/qist_fty.json",
             "name": "饭太硬·老牌精简(49源)"
         },
 		{
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/autoiptv_live.json",
+            "url": "https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/autoiptv_live.json",
             "name": "南风直播(871频道·国内直连·实测存活)"
         },
 		{
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/live.json",
+            "url": "https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/live.json",
             "name": "纯直播合集(喵站+南风+咪咕·1313频道)"
         },
 		{
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/raycorn_live.json",
+            "url": "https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/raycorn_live.json",
             "name": "Raycorn·IPV6直播(央视卫视)"
         },		
        {
@@ -50,7 +50,7 @@
             "name": "noimank·健康家用(自维护)"
         },                         
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/fongmi0827.json",
+            "url": "https://raw.githubusercontent.com/hengge345666/tvbox-subs/main/mirror/fongmi0827.json",
             "name": "FongMI·0827修复版(33源·jar仅0.25MB·秒加载)"
         }, 
         {
@@ -62,7 +62,7 @@
             "name": " 俊佬·jundie线路"
         },               
 		{
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+            "url": "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
             "name": "老刘备·liu673源"
         },    
         {
